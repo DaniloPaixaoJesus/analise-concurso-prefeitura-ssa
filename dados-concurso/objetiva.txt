@@ -1,0 +1,800 @@
+927024499 Guilherme Yazaki 10/04/1988 8 5 4 9 7 25 58 Aprovado
+927013909 Beatriz Souza Lima De Oliveira 23/04/1986 8 5 5 9 8 23 58 Aprovado Negro
+927014412 Tiago Santos Nascimento 04/04/1989 6 4 2 11 8 25 56 Aprovado
+927002186 Stella Maris Zanardo Siqueira 20/04/1973 9 4 4 7 7 25 56 Aprovado
+927009455 Natalie Melquiades De Oliveira Araujo 22/12/1992 8 5 4 8 7 24 56 Aprovado
+927008606 Ricardo Barretto Da Cruz 10/11/1991 9 4 3 11 7 21 55 Aprovado
+927019719 Cilene Pereira Cardim 17/08/1975 8 5 4 9 6 22 54 Aprovado Negro
+927012446 Sandra Da Costa Oening 28/05/1975 8 5 2 7 7 24 53 Aprovado
+927002555 Márcia Cristina Moreira 08/10/1981 6 5 4 6 8 24 53 Aprovado
+927023282 Marcos De Souza Machado 04/07/1985 8 4 3 8 7 23 53 Aprovado
+927022629 Raiane Novais Pereira 30/07/1989 8 4 3 9 8 21 53 Aprovado
+927013295 Sheila Oliveira De Freitas De Oliveira 14/11/1961 7 5 4 6 7 23 52 Aprovado
+927005504 Daniela Chaves Radel Bittencourt 20/01/1976 7 4 3 8 8 22 52 Aprovado
+927000030 Orlando Rodrigues Dos Santos 18/10/1991 6 4 4 9 7 22 52 Aprovado
+927023512 Adriana Santana Silva 21/09/1982 4 4 5 11 7 21 52 Aprovado Negro
+927016418 Suziane Souza Do Nascimento 23/09/1989 7 4 3 9 8 21 52 Aprovado
+927019783 Luciana Siqueira Do Nascimento 10/10/1969 7 5 3 8 8 21 52 Aprovado
+927018848 Luiz Henrique Santos Da Silva 16/09/1971 6 5 5 7 8 21 52 Aprovado Negro
+927021121 Michele Santos Pereira 25/06/1984 9 5 4 7 6 21 52 Aprovado Negro
+927001760 Daniele Oliveira Almeida 24/06/1986 7 4 3 10 8 20 52 Aprovado
+927011680 Alan Victor De Azevedo Abreu 28/04/1981 5 5 5 9 8 20 52 Aprovado
+927025205 Pauliane Brito Da Silva 07/07/1981 6 5 5 9 7 20 52 Aprovado Negro
+927006464 Railana De Cássia Pereira Santos 08/10/1995 5 4 4 6 8 24 51 Aprovado Negro
+927013672 Maria Rita Lima Cavalcante 09/09/1970 6 4 4 9 6 22 51 Aprovado
+927005719 Angelimar Santana Santos 12/03/1969 6 5 4 6 8 22 51 Aprovado Negro
+927019796 Géssica Gomes Dos Santos Mendes 13/06/1994 6 4 3 9 8 21 51 Aprovado
+927014438 Flávia Carol Da Silva De Jesus 20/07/1987 8 2 5 9 7 20 51 Aprovado
+927009575 Marla Oliveira Andrade 24/07/1978 7 5 4 8 7 20 51 Aprovado
+927014863 Ladyane Rocha Ferreira 12/09/1989 6 3 4 8 5 24 50 Aprovado
+927024581 Sheyle Dayane Horta Dos Santos 20/04/1982 4 5 3 8 7 23 50 Aprovado
+927024917 Adriana Araújo Santana 27/11/1980 8 5 1 7 7 22 50 Aprovado
+927011920 Cristiane Santos De Jesus 26/02/1979 7 4 5 6 8 20 50 Aprovado Negro
+927021995 Patricia Santos De Santana 10/03/1975 8 4 5 7 6 20 50 Aprovado
+927013457 Leila Maria Haynes Dos Santos 17/05/1978 6 5 3 10 7 19 50 Aprovado Negro
+927011992 Jacqueline Meire Santos 06/05/1980 6 4 4 11 8 17 50 Aprovado
+927023554 Sílvio Dos Reis Nunes Filho 24/06/1990 7 4 3 5 6 24 49 Aprovado
+927012400 Josenildes Andrea De Lima Oliveira Alves 27/07/1980 5 3 4 8 7 22 49 Aprovado Negro
+927018242 Daniele De Jesus Gomes Moreira 10/05/1982 6 4 3 6 8 22 49 Aprovado Negro
+927013604 Susana Bittencourt Gomes 26/03/1981 8 4 3 7 5 22 49 Aprovado
+927005747 Laís De Almeida Câmara 03/09/1980 5 4 2 9 8 21 49 Aprovado
+927013224 Daniele De Sá Sacramento Santana 16/09/1982 6 3 3 8 8 21 49 Aprovado
+927010231 Verônica Fonseca Cabús 04/05/1975 6 4 3 8 7 21 49 Aprovado
+927014942 Weslley Feitosa Da Silva 29/07/1993 6 5 2 8 8 20 49 Aprovado Negro
+927006550 Leandra Dos Santos Freitas De Castro 19/09/1980 6 4 3 10 8 18 49 Aprovado Negro
+927020521 Érica Renata Clemente Rodrigues 15/01/1988 6 4 3 10 8 18 49 Aprovado
+927000715 Elaine Silva Montargil 27/10/1977 7 4 3 10 7 18 49 Aprovado
+927017133 Amanda Maria Fraga Costa 01/05/1994 6 4 4 9 8 18 49 Aprovado Negro
+927022810 Adriana Resende Rodrigues 23/05/1971 6 5 4 9 7 18 49 Aprovado
+927011345 Sandra Patricia Da Costa Ribeiro 17/10/1980 8 4 5 7 7 18 49 Aprovado
+927019158 Augusto César Santos Menezes 16/09/1990 8 5 4 9 7 16 49 Aprovado Negro
+927011343 Sandra Regina Da Silva Azevedo 18/03/1969 7 4 1 6 7 23 48 Aprovado
+927012702 Anamaria Hackspiel De Andrade Brito 16/06/1981 3 4 4 8 7 22 48 Aprovado
+927008453 Gilvania Moreira De Andrade 03/04/1983 4 4 3 7 8 22 48 Aprovado
+927003078 Filipe Cerqueira Lima 28/09/1988 4 3 4 8 7 22 48 Aprovado
+927010040 Gabriela Santos Da Silva 04/12/1993 4 5 3 6 8 22 48 Aprovado Negro
+927019377 Fátima Maria Magalhães Batista 13/05/1966 7 4 3 7 5 22 48 Aprovado
+927003063 Daniel Silva Pinheiro 26/01/1988 5 4 2 8 8 21 48 Aprovado
+927012246 Ilma Nascimento Barreto 20/01/1971 5 4 3 9 6 21 48 Aprovado
+927016406 Nilvania Dos Santos Lima 23/01/1988 4 5 4 6 8 21 48 Aprovado
+927016372 Cassia Oliveira Ribeiro 05/06/1995 8 3 2 6 8 21 48 Aprovado
+927011534 Daiane Carneiro Dos Santos 10/05/1989 6 5 3 6 7 21 48 Aprovado
+927006964 Grace Kelly Santos Souza 07/03/1994 5 5 1 9 8 20 48 Aprovado
+927009217 Maiana Dias Santos De Jesus 05/02/1984 4 4 4 10 6 20 48 Aprovado
+927005300 Vamessia Marques Da Silva 22/12/1987 4 3 5 10 6 20 48 Aprovado
+927025122 Fábio Prudêncio De Sousa 15/01/1978 6 4 3 10 5 20 48 Aprovado
+927014392 Ellen Dias E Silva 22/07/1995 6 4 3 8 7 20 48 Aprovado
+927024223 Kelly Caroline De Campos Monteiro 12/09/1984 6 5 3 7 7 20 48 Aprovado
+927018346 Ana Paula Gomes Batista 04/04/1992 5 5 4 7 7 20 48 Aprovado Negro
+927014422 Fabiane Dos Reis Rebouças Gonzaga 15/04/1977 6 4 5 6 7 20 48 Aprovado
+927013263 Mayza Brito Silva Dos Santos 09/06/1980 5 5 5 7 6 20 48 Aprovado
+927017622 Sandra Santos Silveira 23/04/1980 4 5 3 11 6 19 48 Aprovado
+927000467 Leticia Da Cruz Souza 31/05/1995 6 4 2 10 7 19 48 Aprovado
+927025803 Ana Paula Rodrigues Sampaio 22/03/1977 6 4 3 8 8 19 48 Aprovado
+927023197 Beatriz Dos Santos Patrocínio 07/09/1981 6 5 2 9 7 19 48 Aprovado Negro
+927015508 Lilian Silva Dos Santos 30/07/1986 8 2 3 9 7 19 48 Aprovado
+927020213 Ives Milena Santos Silva 23/08/1980 6 3 5 9 6 19 48 Aprovado Negro
+927011595 Adriana Sousa De Oliveira Silva 03/03/1981 6 4 4 7 8 19 48 Aprovado
+927025577 Jonatan De Santana Miranda Amorim 02/09/1984 4 5 4 9 8 18 48 Aprovado
+927006807 Lucas Da Fonseca Santos 13/10/1981 5 5 4 8 8 18 48 Aprovado
+927013714 Luciane Fernandes Neves 23/05/1989 7 5 3 9 7 17 48 Aprovado Negro
+927023388 Evelin De Souza Ferreira 27/05/1996 8 4 4 11 4 17 48 Aprovado
+927005079 Marcos Da Cunha Pereira 13/04/1957 6 5 3 6 8 19 47 Aprovado
+927008948 Vanessa De Souza Lemos 20/10/1982 3 4 3 7 7 23 47 Aprovado Negro
+927017005 Claudio Henrique Costa Cerqueira 15/08/1991 4 4 2 8 6 23 47 Aprovado Negro
+927008535 Suelen Gessica Anunciação Silva 04/06/1986 3 5 3 7 7 22 47 Aprovado Negro
+927014078 Daniele Carvalho Silva 09/09/1989 4 3 4 7 7 22 47 Aprovado Negro
+927020826 Juliane Silva Dos Santos 30/03/1987 3 5 2 8 8 21 47 Aprovado
+927016296 Noemi Souza Lima Marques 06/05/1984 5 4 2 9 6 21 47 Aprovado
+927019602 Fernanda Rodrigues Dos Santos 18/06/1984 7 2 2 8 7 21 47 Aprovado Negro
+927003068 Joilson Santiago Dos Anjos 02/02/1989 5 4 4 7 6 21 47 Aprovado PcD
+927015356 Maria Edna Santos 20/09/1990 7 4 3 8 4 21 47 Aprovado
+927019142 Camila Lacerda Pinheiro de Oliveira 14/06/1986 8 4 3 6 5 21 47 Aprovado Negro
+927008985 Rosilene Assis Santos 15/02/1976 7 3 2 8 7 20 47 Aprovado Negro
+927017122 Rosangela Matos Santana Da Silva 22/01/1982 5 4 3 8 7 20 47 Aprovado
+927010574 Tauani Borges Andrade 28/11/1988 5 5 2 7 8 20 47 Aprovado
+927002232 Maria Luiza Mendes Carvalho De Jesus 05/06/1998 5 3 4 9 6 20 47 Aprovado Negro
+927010499 Aline Pereira Lemos 29/09/1984 5 2 4 10 7 19 47 Aprovado
+927014048 Yale Cunha Avelino 23/01/1989 4 4 3 9 8 19 47 Aprovado
+927025735 Amauri De Oliveira Jesus 08/09/1987 7 3 2 8 8 19 47 Aprovado
+927016002 Martha Da Costa Nascimento Almeida 08/02/1969 7 4 2 9 6 19 47 Aprovado
+927012071 Tatinai Rodrigues Cardoso 27/02/1986 6 5 2 7 8 19 47 Aprovado Negro
+927023411 Milane Souza Santana 13/04/1993 7 4 2 8 7 19 47 Aprovado
+927005670 Anaile Andrade De Jesus Cerqueira 20/06/1993 6 4 3 8 7 19 47 Aprovado
+927007074 Larissa Andreia Carneiro De Araujo 10/02/1996 5 4 4 10 5 19 47 Aprovado
+927022268 Alisson Luís Morais Da Silva 11/02/1989 7 4 3 7 7 19 47 Aprovado Negro
+927011064 Vanessa Ribeiro Dos Reis 19/04/1990 7 4 3 7 7 19 47 Aprovado
+927010365 Edvaldo Coelho Santana 29/04/1999 7 5 2 9 5 19 47 Aprovado Negro
+927010355 Carlos Alberto De Souza 08/03/1968 7 4 4 5 8 19 47 Aprovado
+927009009 Leila Silva De Souza 19/06/1983 6 4 3 10 6 18 47 Aprovado
+927011860 Josilaine Oliveira Borges Sanches 29/05/1985 6 4 4 8 7 18 47 Aprovado
+927021049 Paloma Santos Ferreira 09/12/1992 8 5 3 7 7 17 47 Aprovado
+927014291 Priscila Oliveira Nascimento Reis 03/12/1981 6 4 3 11 7 16 47 Aprovado
+927012415 Taísse Maria Sousa Lopes 28/04/1983 4 3 4 6 7 22 46 Aprovado
+927007550 Bruno De Jesus Santos 08/01/1996 5 5 1 7 6 22 46 Aprovado
+927023134 Catiuze Bezerra Oliveira 03/09/1980 6 4 4 6 5 21 46 Aprovado
+927018623 Edclea Marques Telis 20/03/1985 5 3 2 9 7 20 46 Aprovado
+927019877 Esiel Pereira Santos 15/03/1987 3 3 4 8 8 20 46 Aprovado Negro
+927025419 Chaiene Caiala Almeida Dos Santos Fernandes Bastos 05/01/1991 4 3 4 8 7 20 46 Aprovado
+927016412 Gil Santos Amorim 06/07/1979 5 4 3 7 7 20 46 Aprovado Negro
+927016785 Sirleide Silva França De Sousa 12/07/1980 6 4 2 6 8 20 46 Aprovado Negro
+927021183 Ana Léia De Lima Rodrigues 01/06/1989 6 5 2 7 6 20 46 Aprovado Negro
+927003214 Ana Paula Leal Silvestre 16/10/1989 4 5 4 6 7 20 46 Aprovado
+927023891 Eliane Ribeiro Rocha Dias 19/09/1972 5 4 2 9 7 19 46 Aprovado
+927005306 Atanaildes Caldas De Santana 05/08/1980 5 4 3 8 7 19 46 Aprovado Negro
+927021622 Lilia Oliveira De Jesus 02/03/1983 5 4 3 9 6 19 46 Aprovado Negro
+927005801 Marla Carneiro Gomes 28/02/1987 5 4 3 9 6 19 46 Aprovado
+927023495 Lais Assis Sena Cerqueira 06/10/1988 5 4 3 7 8 19 46 Aprovado
+927006179 Joseane Silva Cardoso De Oliveira 02/08/1991 5 4 3 9 6 19 46 Aprovado
+927002043 Elizete Rayane Soares Da Silva 13/04/1995 5 4 3 9 6 19 46 Aprovado
+927015539 Alice Araujo Santos 28/06/1985 8 3 2 7 7 19 46 Aprovado
+927006907 Janaina Alves De Santana 31/12/1987 7 5 1 7 7 19 46 Aprovado
+927009086 Genario Dos Santos 26/09/1984 6 5 3 7 6 19 46 Aprovado Negro
+927014282 Grayce Lorenna Santos Bastos 04/01/1992 8 5 1 7 6 19 46 Aprovado
+927023541 Janete Silva Da Cunha Adorno 29/04/1985 7 3 5 7 5 19 46 Aprovado
+927019635 Anna Caroline Marinho Franca 26/10/1993 7 5 3 7 5 19 46 Aprovado
+927015376 Isabel Marques Barnabé 23/06/1984 5 5 2 8 8 18 46 Aprovado
+927024949 Mariana Almeida De Campos 18/01/1985 5 5 2 10 6 18 46 Aprovado
+927017602 Vanessa Barbosa Dos Anjos 26/05/1992 6 2 4 8 8 18 46 Aprovado Negro
+927019145 Maria Clara Araujo Da Macena 19/06/1986 8 3 3 6 8 18 46 Aprovado Negro
+927013960 Esdras Efraim Santana Rocha 18/09/1987 6 5 3 8 6 18 46 Aprovado Negro
+927014179 Ana Paula Praxedes Neves 02/07/1980 8 4 3 6 7 18 46 Aprovado Negro
+927010928 Gabriela Mattos De Souza 10/08/1981 7 5 4 7 5 18 46 Aprovado Negro
+927002737 Tainan Armando Conceição De Jesus 08/08/1985 6 4 2 9 8 17 46 Aprovado PcD Negro
+927022834 Maria Sara Alves De Assis 15/01/1996 7 4 3 8 7 17 46 Aprovado
+927000220 Marcel Musse Pereira 17/09/1985 6 5 4 6 8 17 46 Aprovado
+927018868 Jone Rildo Nascimento De Almeida 11/07/1989 6 5 4 6 8 17 46 Aprovado
+927020481 Laura Charlene Vieira Dos Santos Da Silva 17/09/1988 7 4 5 7 6 17 46 Aprovado
+927022082 Jessica Angelica Da Silva Ramos 26/11/1988 4 4 3 11 8 16 46 Aprovado
+927011310 Aline Pereira Santos 09/03/1991 5 4 3 11 7 16 46 Aprovado
+927018558 Jésica Conceição De Araujo 14/06/1987 6 4 4 9 7 16 46 Aprovado
+927015346 Hélida Lamêgo Mendonça Nascimento 17/02/1977 5 2 2 9 5 22 45 Aprovado
+927003454 Luciana Silva De Santana 01/02/1981 5 3 3 6 6 22 45 Aprovado
+927017407 Lariza Da Rosa Silva 26/12/1988 4 5 2 5 7 22 45 Aprovado
+927010788 Cleide Santos Souza 04/03/1986 4 4 2 6 8 21 45 Aprovado
+927019456 Sirlene Queiroz Da Silva 10/01/1987 4 4 2 8 6 21 45 Aprovado Negro
+927009091 Juceleide Borges Correia 17/08/1982 5 3 3 5 8 21 45 Aprovado
+927023722 Marli Ribeiro Santos Alves 24/10/1985 6 3 2 7 6 21 45 Aprovado
+927020175 Catia Oliveira Costa Lima 17/11/1972 5 3 4 6 6 21 45 Aprovado
+927003589 Georgia Priscila Silva Oliveira 31/08/1974 5 4 3 5 7 21 45 Aprovado
+927017181 Michele Souza Lopes 06/09/1988 4 5 3 8 5 20 45 Aprovado
+927011953 Carla Catielle Oliveira Amaral 22/11/1988 5 4 3 7 6 20 45 Aprovado
+927023695 Analzira Dias Moreira Dos Santos 24/06/1990 4 5 3 6 7 20 45 Aprovado
+927014842 Orli Ferreira De Albuquerque Junior 17/03/1993 6 4 2 6 7 20 45 Aprovado
+927008077 Malu Oliveira Fernandes 10/01/1998 5 4 3 8 5 20 45 Aprovado
+927023468 Vitor Alexandre Noronha Reis 18/07/1992 5 4 4 5 7 20 45 Aprovado
+927008725 Keliane Cassandra Gaudencio Gomes Guedes 13/12/1979 4 4 2 10 6 19 45 Aprovado
+927023024 Priscila Lima De Carvalho 05/11/1990 6 0 4 8 8 19 45 Aprovado Negro
+927021373 Elizangela De Oliveira Barbosa 09/08/1977 5 4 2 8 7 19 45 Aprovado
+927010986 Luciana Veloso Almeida 12/06/1980 5 3 3 7 8 19 45 Aprovado
+927003924 Lorena Tosta Pereira Da Silva 19/01/1984 5 2 4 8 7 19 45 Aprovado
+927020511 Gabriel Santana Reina Machado 09/04/1988 6 3 2 8 7 19 45 Aprovado Negro
+927012066 Ana Carolina De Rezende Caldas 09/03/1978 6 4 2 7 7 19 45 Aprovado
+927005825 Edivane São Pedro Santos Costa 29/01/1985 6 4 2 8 6 19 45 Aprovado Negro
+927010792 Dinaisa Alves Pinheiro 27/02/1988 4 4 4 6 8 19 45 Aprovado
+927019123 Licia Maria Nascimento Peixoto 08/02/1974 5 5 3 8 5 19 45 Aprovado Negro
+927021243 Cristiniana Santos Silva 12/12/1988 6 4 3 7 6 19 45 Aprovado Negro
+927016101 Nilza Santos De Viveiros 16/09/1970 5 3 2 9 8 18 45 Aprovado
+927007871 Cléuma Rocha Carvalho 13/07/1981 5 3 3 9 7 18 45 Aprovado
+927006061 Maria Aparecida Abolin Marinho 12/01/1982 4 4 4 8 7 18 45 Aprovado
+927023692 Jasiane De Araujo 02/11/1982 4 5 3 8 7 18 45 Aprovado
+927012367 Suely Cury Montalvão 03/09/1967 4 5 4 7 7 18 45 Aprovado
+927022477 Ludimila Maria Andrade Dos Santos 24/02/1987 6 4 3 8 6 18 45 Aprovado
+927021295 Euricarla Nascimento Cerqueira De Jesus 09/09/1988 5 3 5 6 8 18 45 Aprovado
+927017007 Gloria De Araujo Ferreira 23/08/1990 6 4 3 7 7 18 45 Aprovado
+927003876 Jozilda Conceição Correia 08/01/1966 5 4 5 8 5 18 45 Aprovado
+927013374 Ketsia Sousa Santos 15/01/1985 4 4 3 9 8 17 45 Aprovado
+927000042 Mariana Pessoa Jornane Barbosa Santos 26/05/1984 5 3 4 8 8 17 45 Aprovado
+927008060 Elane Silva Chaves 24/08/1984 6 3 3 8 8 17 45 Aprovado
+927013821 Arleia Oliveira Silva De Araujo 01/03/1980 7 3 3 10 5 17 45 Aprovado
+927017186 Alaine Mascarenhas Bezerra 20/05/1984 6 5 2 8 7 17 45 Aprovado
+927015672 Tonilma Santos Silva 16/07/1985 7 4 2 8 7 17 45 Aprovado Negro
+927017702 Elaine Heloísa Pereira Silva 04/09/1995 5 4 5 7 7 17 45 Aprovado
+927009818 Milena Guerreiro De Cerqueira 07/11/1982 6 4 5 5 8 17 45 Aprovado
+927025872 Marcos Paulo Potratz Do Nascimento 30/03/1984 7 5 4 5 7 17 45 Aprovado Negro
+927019989 Jenusia Dos Santos Lima 12/10/1976 6 3 4 9 7 16 45 Aprovado
+927021603 Sandra Patrícia Silva Dos Santos 27/06/1981 5 4 4 9 7 16 45 Aprovado Negro
+927013939 Maria De Fátima Reis Dos Santos 23/02/1999 5 3 5 10 6 16 45 Aprovado Negro
+927024801 Paula Santana Oliveira 27/07/1996 6 5 3 8 7 16 45 Aprovado
+927001290 Patricia Sueli Teles De Oliveira 05/03/1978 7 4 4 8 6 16 45 Aprovado
+927008773 Jeane Da Silva Freitas 21/08/1974 7 4 5 8 6 15 45 Aprovado
+927015080 Joneis Canedo De Santana Dos Santos 16/04/1986 4 1 3 7 8 21 44 Aprovado Negro
+927008810 Daiana Marcia Lima De Santana 11/03/1983 4 4 1 7 7 21 44 Aprovado Negro
+927006739 Jussilene Araujo De Miranda 04/06/1979 5 3 2 7 6 21 44 Aprovado Negro
+927006203 Iraildes Da Cruz Araujo Ferreira 18/03/1981 5 3 2 7 6 21 44 Aprovado Negro
+927002448 Maria Thamires Magalhães Soares 29/10/1997 5 4 1 7 6 21 44 Aprovado
+927007112 Fernanda Lima Reis 18/09/1998 3 5 3 6 6 21 44 Aprovado
+927012842 Laiane De Jesus Brito Crisóstomo 07/10/1993 3 5 1 7 8 20 44 Aprovado
+927001783 Ana Paula Santos Da Paz 09/06/1986 6 2 2 7 7 20 44 Aprovado
+927016128 Itia Souza Silveira 28/11/1971 3 4 4 7 6 20 44 Aprovado
+927004946 Isabel Simone Ramos Conceicao 10/12/1976 5 4 2 6 7 20 44 Aprovado
+927000884 Amanda Tourinho Silva Marinho 23/12/1982 5 3 3 7 6 20 44 Aprovado Negro
+927008638 Vanessa Jesus De Oliveira 08/02/1984 6 3 3 4 8 20 44 Aprovado
+927017652 Gleisiane De Almeida Gomes 02/06/1988 3 4 3 9 6 19 44 Aprovado
+927003445 Alba Barreto Schramm Lino 29/03/1981 4 4 3 7 7 19 44 Aprovado
+927023977 Luciana Guedes Xavier 10/12/1985 5 4 2 7 7 19 44 Aprovado
+927013638 Amanda De Jesus Cruz 14/04/1988 5 3 3 8 6 19 44 Aprovado Negro
+927012130 Juliana Santos De Melo 28/05/1989 4 5 2 6 8 19 44 Aprovado
+927002189 Ana Carolina Reis Pereira 19/07/1981 4 3 5 6 7 19 44 Aprovado
+927020981 Maeli Conceição Dos Santos 30/11/1984 9 2 1 7 6 19 44 Aprovado
+927020545 Gustavo Ferraz Lima 07/12/1990 5 4 3 6 7 19 44 Aprovado
+927002673 Manuelle Santos De Lima 25/12/1990 4 4 4 6 7 19 44 Aprovado
+927006092 Lizandra Barreto De Souza 23/02/1981 5 4 4 5 7 19 44 Aprovado Negro
+927022690 Sheyla Daniela Oliveira 06/09/1983 7 4 2 5 7 19 44 Aprovado
+927023826 Aline Dos Santos Cirqueira 16/03/1981 7 5 2 4 7 19 44 Aprovado
+927007599 Myrian Kenia Gonçalves Rodrigues 17/11/1990 6 5 3 5 6 19 44 Aprovado
+927000175 Simone Lima De Jesus Barral 15/11/1973 4 3 3 9 7 18 44 Aprovado Negro
+927006947 Dilma Santos Do Rosario Marques 12/05/1979 7 2 1 9 7 18 44 Aprovado Negro
+927001589 Adenilson De Andrade Argolo 21/01/1993 4 3 3 8 8 18 44 Aprovado
+927004577 Tathiana Andrade Sanches 14/01/1971 3 4 4 8 7 18 44 Aprovado
+927014732 Lilian Araujo Da Cruz 04/07/1985 4 3 4 8 7 18 44 Aprovado Negro
+927018393 Denilson Bonfim de Jesus Oliveira 16/01/1987 5 3 4 8 6 18 44 Aprovado Negro
+927022114 Catia Souza De Queiroz 05/04/1976 5 5 3 5 8 18 44 Aprovado
+927025584 Edileuza Pamponet Cerqueira Dos Santos 08/08/1970 7 3 4 7 5 18 44 Aprovado Negro
+927015228 Fabiana De Silvany Sampaio Ribeiro 15/08/1978 7 3 4 6 6 18 44 Aprovado
+927008433 Valéria Lima Dos Santos 11/08/1980 5 2 3 9 8 17 44 Aprovado
+927015500 Silviaelane Castro Mauricio Dos Santos 28/01/1980 6 2 3 8 8 17 44 Aprovado Negro
+927016924 Tauana Lima Dias Silva 03/07/1988 3 4 4 8 8 17 44 Aprovado Negro
+927017138 Adriely Da Silva Vale 17/10/1997 5 5 1 8 8 17 44 Aprovado
+927001277 Rosane Bastos Menezes 27/05/1985 6 4 3 6 8 17 44 Aprovado
+927016369 Emanuele De Jesus Aleluia 10/05/1993 5 4 4 6 8 17 44 Aprovado Negro
+927020153 Natalli Soeiro Costa 10/02/1983 6 5 3 7 6 17 44 Aprovado
+927023610 Semidéia Sentimental Silva Santos 25/04/1984 6 3 5 8 5 17 44 Aprovado
+927001432 Rhayza De Sousa Freire 14/02/1993 4 5 5 7 6 17 44 Aprovado
+927019404 Liliane Borges Rocha 23/01/1997 6 5 3 6 7 17 44 Aprovado Negro
+927013907 Adelma Passos Soares Serafim 02/03/1967 9 4 2 6 6 17 44 Aprovado
+927015848 Regina Costa Farias 21/07/1981 4 4 4 8 8 16 44 Aprovado Negro
+927011432 Camila Gabriela Do Espirito Santo Marques 20/02/1983 5 4 4 7 8 16 44 Aprovado
+927013722 Luciene De Jesus Soares 12/01/1975 5 5 4 7 7 16 44 Aprovado
+927025034 Priscila Cardoso Martins 05/06/1982 7 4 3 7 7 16 44 Aprovado
+927019973 Roberta Fernandes Medina Melo 23/08/1988 8 5 3 6 6 16 44 Aprovado
+927015510 Rafaela Ferreira Franco Teixeira 14/09/1984 5 4 3 9 8 15 44 Aprovado
+927005528 Dilza Ramos Pinheiro 27/05/1986 7 4 2 8 8 15 44 Aprovado Negro
+927015805 Liliane Gomes De Cerqueira De Souza 27/09/1977 7 3 4 7 8 15 44 Aprovado
+927008560 Leilane Das Virgens Santos 27/03/1987 7 4 3 8 7 15 44 Aprovado
+927025499 Welma Gonçalves Pereira 24/06/1984 6 5 4 8 6 15 44 Aprovado
+927018643 Nadjara Felix Ferreira 06/07/1986 4 3 1 6 7 22 43 Aprovado Negro
+927014681 Isabella Ribeiro Coutinho De Santana 17/03/1989 5 4 0 6 7 21 43 Aprovado
+927019845 Renata Moura Do Vale 13/01/1994 4 3 2 7 6 21 43 Aprovado Negro
+927009654 Lisiane Santos De Jesus 28/09/1990 5 2 3 5 7 21 43 Aprovado
+927005911 Sirlene Dos Santos Ferreira 22/09/1983 5 4 2 5 6 21 43 Aprovado
+927025271 Augusto Messias Carvalho Do Amor Divino 07/06/1986 3 5 3 7 4 21 43 Aprovado
+927014668 Isabelle De Paula Vidal Costa 05/08/1992 4 4 3 8 3 21 43 Aprovado
+927016090 Yasmin Da Silva Dessa Kitaoka 10/06/1992 3 5 1 7 7 20 43 Aprovado
+927015688 Tereza Cristina Silva De Santana 23/08/1981 5 4 2 6 6 20 43 Aprovado Negro
+927006113 Waleska Carvalho Barreto 08/05/1987 3 5 3 7 5 20 43 Aprovado
+927022967 Neiliane Oliveira Dos Santos 13/06/1977 5 3 4 5 6 20 43 Aprovado
+927012952 Alexsandra Dos Santos Costa 17/11/1983 7 4 1 7 4 20 43 Aprovado
+927023389 Joubert Santos Da Silva 24/03/1975 5 4 4 5 5 20 43 Aprovado
+927016719 Diego De Oliveira Martins 08/04/1987 5 2 2 7 8 19 43 Aprovado Negro
+927007935 Elaine Cristina Aragão Santana Rodrigues 26/05/1988 6 2 2 6 8 19 43 Aprovado
+927015989 Débora Ferreira Da Silva 23/07/1982 4 3 4 7 6 19 43 Aprovado
+927010256 Adriana Santana Dos Santos 22/08/1983 7 2 2 7 6 19 43 Aprovado Negro
+927008959 Patricia Carla Vilas Boas Galvão Santos 12/07/1973 5 4 3 6 6 19 43 Aprovado
+927014446 Josieli Dos Santos Souza 01/08/1986 5 4 3 8 4 19 43 Aprovado
+927017745 Geisiane Cardoso Bispo 05/04/1993 6 5 4 5 4 19 43 Aprovado
+927004456 Lucas Da Silva Moreira 22/10/1994 3 2 3 11 6 18 43 Aprovado
+927019300 Raquel Dos Santos De Sousa 19/12/1985 5 3 1 8 8 18 43 Aprovado PcD
+927014723 Ana Paula De Jesus Capistrano 05/07/1989 5 1 3 8 8 18 43 Aprovado Negro
+927013951 Eliana Cardoso De Macedo Santos 11/04/1990 1 5 3 8 8 18 43 Aprovado
+927022635 Edna Lorena Souza De Brito 22/02/1985 5 2 3 7 8 18 43 Aprovado Negro
+927018780 Thalita Paula Rangel Leite 28/05/1986 4 4 2 7 8 18 43 Aprovado Negro
+927017681 Marco Antonio Peixoto De Santana 11/09/1987 5 3 2 8 7 18 43 Aprovado
+927019741 Sutervania Maria De Santana Alves 21/07/1971 5 4 2 9 5 18 43 Aprovado
+927008182 Arlete São Leão Miranda De Souza 15/03/1979 5 4 2 8 6 18 43 Aprovado Negro
+927015273 Joyce Roberta De Jesus Bonfim Dos Santos 06/04/1984 4 4 3 8 6 18 43 Aprovado
+927016950 Eunice Uzeda dos Santos 03/10/1987 5 4 2 6 8 18 43 Aprovado Negro
+927013476 Emille Santana Moreira Nuneas 14/01/1995 6 4 1 7 7 18 43 Aprovado
+927014225 Ana Geórgia De Oliveira Lima E Souza Muniz 09/10/1962 5 3 4 8 5 18 43 Aprovado
+927022327 Árina Porto Sales Neiva 07/08/1980 3 5 4 6 7 18 43 Aprovado Negro
+927017672 Lilian Santana De Castro 15/09/1980 4 4 4 7 6 18 43 Aprovado
+927013686 Adrizia Silva Da Paixão 23/10/1982 6 3 3 7 6 18 43 Aprovado
+927016790 Elza Milena Nascimento Machado 19/05/1983 5 3 4 7 6 18 43 Aprovado
+927016452 Débora Gomes Gonçalves 30/10/1989 6 4 2 6 7 18 43 Aprovado Negro
+927012505 Illa Esther Lacerda Andrade 06/08/1996 3 5 4 6 7 18 43 Aprovado
+927015364 Regina De Azevedo Moreira Meneze 16/12/1969 6 5 2 7 5 18 43 Aprovado
+927006985 Tatiana De Oliveira Costa 24/07/1980 6 4 3 4 8 18 43 Aprovado
+927018967 Luciana Fadique Alves 12/06/1978 7 3 4 5 6 18 43 Aprovado Negro
+927002154 Victória Trindade Lessa 18/11/1997 7 4 3 6 5 18 43 Aprovado
+927016976 Givani Dos Santos Silva 27/10/1979 4 4 3 8 7 17 43 Aprovado Negro
+927006498 Viviane Brito D Araujo E Oliveira 07/02/1980 5 3 3 8 7 17 43 Aprovado
+927012563 Leidiane Sampaio Borges 10/10/1988 5 3 3 7 8 17 43 Aprovado Negro
+927020949 Renata Caroline Santos Santana 08/11/1991 5 4 2 9 6 17 43 Aprovado
+927005142 Andréia Costa Da Encarnação 14/07/1985 6 3 3 7 7 17 43 Aprovado Negro
+927018209 Nara De Lima Eloi Da Silva 27/03/1986 4 5 3 7 7 17 43 Aprovado
+927011798 Catiane Da Silva Oliveira 26/07/1974 6 3 4 6 7 17 43 Aprovado
+927006482 Lucia Pena Almeida De Souza 10/08/1974 7 4 2 8 5 17 43 Aprovado
+927009992 Christian Fattorusso 30/04/1976 5 5 3 8 5 17 43 Aprovado
+927000130 Juciaria Gomes Almeida 08/09/1976 5 4 4 6 7 17 43 Aprovado
+927005600 Steffany Santos Queiroz 23/01/1996 5 4 4 6 7 17 43 Aprovado
+927015841 Carina Conceição Moura 12/04/1979 7 2 5 6 6 17 43 Aprovado
+927000557 Louise Barbosa Da Silva 24/05/1994 6 4 4 7 5 17 43 Aprovado
+927022174 Luiza Cerqueira Dos Santos 12/11/1982 5 5 5 4 7 17 43 Aprovado Negro
+927006293 Núbia Maria Brito Cerqueira Machado 18/03/1979 6 4 1 10 6 16 43 Aprovado Negro
+927023289 Daiane Correia Miranda Prazeres 01/08/1983 4 4 4 7 8 16 43 Aprovado
+927017356 Érica De Cerqueira Leal 28/06/1983 5 5 3 8 6 16 43 Aprovado
+927023606 Shirlene Almeida Dos Santos 16/02/1987 7 3 3 7 7 16 43 Aprovado Negro
+927000271 Aise Dos Santos Silva 01/04/1977 6 4 4 6 7 16 43 Aprovado Negro
+927002911 Edjane De Souza Santos 30/11/1975 5 3 4 10 6 15 43 Aprovado
+927012981 Cristiana De Araújo Machado 07/09/1982 4 5 3 8 8 15 43 Aprovado
+927006788 Virgínia Maria Santos De Andrade 24/01/1976 5 3 5 8 7 15 43 Aprovado
+927016826 Lalucha Conceição Do Nascimento 27/04/1991 7 2 4 8 7 15 43 Aprovado
+927000620 Morgana Jesus De Mattos 21/08/1992 4 4 5 9 6 15 43 Aprovado
+927005249 Ana Carla Da Paz De Jesus 29/07/1981 7 3 4 8 6 15 43 Aprovado Negro
+927017086 Tatiana Macedo Araújo 20/09/1981 7 4 3 7 7 15 43 Aprovado Negro
+927019706 Noemia Araújo Paranhos 21/02/1969 3 4 2 6 7 20 42 Aprovado Negro
+927015919 Erica Silva De Carvalho 04/05/1992 2 5 3 8 4 20 42 Aprovado
+927017529 Patricia Dos Anjos Máximo 02/05/1977 3 4 4 6 5 20 42 Aprovado
+927014726 Thales Nascimento Pereira 25/09/1996 5 3 3 6 5 20 42 Aprovado
+927006209 Taislane Sa Barreto Mota Cardoso 10/07/1975 5 3 4 5 5 20 42 Aprovado
+927010014 Ana Caroline Mata Pereira 15/02/1990 2 5 2 7 7 19 42 Aprovado Negro
+927010786 Thais Cerqueira Soares Conceição 24/09/1981 4 3 3 6 7 19 42 Aprovado
+927023525 Joalécia Rodrigues Santana 01/12/1990 4 5 1 7 6 19 42 Aprovado
+927019777 Juliana Soares De Souza 16/05/1992 5 2 3 7 6 19 42 Aprovado
+927002453 Catarina Santos Da Silveira 02/07/1992 5 4 1 6 7 19 42 Aprovado
+927003247 Flavia Rafaela Novais Lacerda 21/04/1981 3 5 3 6 6 19 42 Aprovado Negro
+927006479 Renata De Jesus Santos 18/07/1983 4 4 2 7 7 18 42 Aprovado Negro
+927008655 Amanda Da Silva Sant Ana 28/08/1996 4 3 3 9 5 18 42 Aprovado
+927024714 Roberta Beatriz Souza Magalhães 27/11/1975 6 3 2 7 6 18 42 Aprovado Negro
+927014415 Ana Claudia Teles Da Cruz 02/09/1977 6 2 3 7 6 18 42 Aprovado
+927020989 Neideni Ferreira Da Silva 26/09/1977 7 4 0 6 7 18 42 Aprovado
+927018235 Patricia Pacheco Cerqueira 02/10/1980 4 5 2 7 6 18 42 Aprovado
+927013485 Janaina Rocha Santos Pereira 31/01/1983 5 4 2 8 5 18 42 Aprovado
+927025135 Eliana De Jesus Santos Da Paixão 07/11/1983 4 3 4 8 5 18 42 Aprovado
+927021005 Paulo Victor Neto De Jesus 26/07/1988 4 4 4 6 6 18 42 Aprovado
+927018427 Jainara Oliveira Amorim 10/11/1990 6 5 1 6 6 18 42 Aprovado
+927009088 Benise Souza Brito Menezes Pino Toucedo 06/08/1967 7 3 3 6 5 18 42 Aprovado
+927007237 Pollyanna Paula Torres Da Silva 05/06/1980 6 4 3 4 7 18 42 Aprovado
+927022524 Marjorie Maia Oliveira 26/03/1988 7 3 3 4 7 18 42 Aprovado
+927022379 Crisciane Oliveira Santos 05/11/1995 4 5 4 6 5 18 42 Aprovado
+927010818 Danielle Costa Silva Lima 10/09/1985 3 3 2 10 7 17 42 Aprovado
+927014441 Camila Araújo Ribeiro Ferreira 06/12/1985 5 3 1 9 7 17 42 Aprovado
+927016443 Rosangela Jesus Da Silva 16/08/1982 5 3 2 8 7 17 42 Aprovado
+927015724 Guiomar Rosário Barros Sobral 31/07/1961 6 2 3 8 6 17 42 Aprovado
+927011107 Eliane Silveira Garcia 09/08/1975 6 3 2 7 7 17 42 Aprovado
+927000415 Silvana De Souza Dos Santos 14/12/1975 6 2 3 7 7 17 42 Aprovado
+927012069 Andreia Carneiro De Lima 30/09/1977 6 3 2 8 6 17 42 Aprovado Negro
+927008327 Claudiane De Cerqueira Damasceno Silva 08/08/1984 5 4 2 7 7 17 42 Aprovado
+927022193 Ana Cristina Dias Barbedo 09/05/1968 6 2 4 7 6 17 42 Aprovado
+927014984 Alexsandro Da Silveira Costa 15/04/1979 6 4 2 6 7 17 42 Aprovado Negro
+927021649 Adilson Jesus De Oliveira 07/09/1979 4 5 3 7 6 17 42 Aprovado
+927010651 Shirlei Batista Dos Santos 01/12/1980 7 3 2 6 7 17 42 Aprovado
+927003816 Ana Paula Sacramento Dos Santos Pinheiro 03/08/1981 5 5 2 7 6 17 42 Aprovado
+927019568 Karen Pina Carvalho 04/07/1988 8 3 1 8 5 17 42 Aprovado
+927003555 Patricia Gomes De Amorím 04/06/1983 6 5 2 8 4 17 42 Aprovado
+927015657 Antonia Regina David Macedo 16/10/1985 6 4 3 6 6 17 42 Aprovado Negro
+927020121 Ivana Catharina Campos Dos Santos 07/09/1985 7 4 3 5 6 17 42 Aprovado
+927016692 Caroline Almeida Da Silva 25/03/1995 7 4 3 6 5 17 42 Aprovado Negro
+927006701 Driele Dos Santos Souza 19/06/1994 8 4 3 5 5 17 42 Aprovado
+927006632 Joilza Silva Souza 27/01/1971 4 3 3 9 7 16 42 Aprovado
+927009807 Silvia Regina Santana 01/06/1987 5 1 4 8 8 16 42 Aprovado
+927005491 Maira Thamilles Cardoso Dias Dos Santos 24/07/1988 4 5 1 8 8 16 42 Aprovado
+927006175 Aline Campos Fernandes Rodrigues 26/01/1979 4 5 2 9 6 16 42 Aprovado
+927008780 Luciana De Jesus Cerqueira 18/11/1983 5 4 2 8 7 16 42 Aprovado
+927014237 Naftali Araíjo Bispo 09/02/1987 5 3 3 8 7 16 42 Aprovado
+927022702 Lorena Bárbara Da Rocha Ribeiro 17/06/1987 6 2 3 8 7 16 42 Aprovado
+927012682 Delma Nunes Silva Rios 23/08/1989 3 5 3 8 7 16 42 Aprovado
+927010225 Josemara Costa Reis 31/03/1992 6 3 2 8 7 16 42 Aprovado Negro
+927014051 Marta Glacia Reis Lima 19/02/1982 5 4 3 7 7 16 42 Aprovado
+927015706 José Barreto Dos Santos Júnior 02/06/1981 7 3 3 7 6 16 42 Aprovado
+927008697 Camila Silva De Oliveira 05/08/1989 6 4 3 8 5 16 42 Aprovado
+927000714 Karine Conceição Da Silva 15/08/1990 6 4 3 6 7 16 42 Aprovado
+927012178 Jefferson Gondim De Oliveira 20/03/1993 6 4 3 7 6 16 42 Aprovado PcD Negro
+927016681 Karine Cerqueira Dos Santos 04/08/1998 6 4 3 7 6 16 42 Aprovado Negro
+927013929 Alcione Lima Da Silva 01/07/1965 6 4 4 5 7 16 42 Aprovado
+927017417 Antonia Barbosa Ferreira Santana 29/10/1985 6 4 4 6 6 16 42 Aprovado Negro
+927024684 Elaine Cerqueira Da Silva 25/03/1987 8 4 4 6 4 16 42 Aprovado
+927025575 Alex Francisco Da Silva Santiago 21/09/1981 2 3 5 9 8 15 42 Aprovado
+927014312 Annamelia Luzia Trindade 18/02/1990 5 2 3 9 8 15 42 Aprovado Negro
+927025912 Paloma Da Cruz Saldanha 26/04/1991 6 3 1 10 7 15 42 Aprovado
+927011069 Milena Lacerda Pinheiro De Oliveira 28/06/1983 6 3 2 8 8 15 42 Aprovado Negro
+927022698 Isabela Jesus Dos Santos 06/09/1986 5 3 3 9 7 15 42 Aprovado
+927016528 Milena Jesus Dos Santos 04/03/1988 3 5 3 9 7 15 42 Aprovado Negro
+927004950 Carolina Assis Cézar 30/03/1984 6 2 4 8 7 15 42 Aprovado
+927012665 Luciana Lima Sena 16/12/1984 4 4 4 8 7 15 42 Aprovado
+927011627 Ana Mara Dourado De Souza 03/02/1988 6 4 2 7 8 15 42 Aprovado
+927001781 Rebeca Lima Dos Santos 13/09/1992 6 2 4 9 6 15 42 Aprovado
+927008168 Hilda Santos Silva 06/03/1971 6 4 3 8 6 15 42 Aprovado
+927022768 Iraneide Dos Santos Soares 06/03/1974 6 3 4 7 7 15 42 Aprovado
+927023927 Rita De Cássia De Oliveira Morais 30/11/1982 6 3 4 8 6 15 42 Aprovado
+927017273 Lorames Bispo Dos Santos Cruz 03/10/1986 8 3 3 7 6 15 42 Aprovado Negro
+927008540 Inês Morais Da Silva 20/04/1966 7 5 3 6 6 15 42 Aprovado
+927005134 Vanderval Lobo De Jesus Filho 15/05/1980 2 4 2 6 6 21 41 Aprovado Negro
+927023410 Vanusia Alves Nunes De Abreu 10/08/1980 4 2 3 5 6 21 41 Aprovado
+927011530 Telma De Matos Santos 02/10/1978 6 3 2 6 3 21 41 Aprovado
+927009789 Luana Cristina Borges Da Silva 03/08/1991 4 1 3 7 6 20 41 Aprovado
+927014601 Clarice Ribeiro De Santana 25/10/1983 5 1 3 7 5 20 41 Aprovado
+927003874 Juarez Alves Sanches 16/05/1986 5 3 2 6 5 20 41 Aprovado Negro
+927014743 Roberta Santos De Araújo 18/07/1997 6 4 2 5 4 20 41 Aprovado Negro
+927015410 Rosangela Maria Alves De Abreu Vieira 23/05/1966 5 2 2 8 5 19 41 Aprovado
+927017714 Debora Barros Dos Santos De Athaydes 12/07/1973 3 4 2 7 6 19 41 Aprovado Negro
+927018893 Gilmara Araujo Dos Santos 31/03/1976 3 2 5 5 7 19 41 Aprovado
+927008324 Livia Maria Da Silva Bonfim 31/12/1978 4 3 3 7 5 19 41 Aprovado Negro
+927011593 Ivana Cristina Cabral Da Silva Coelho 15/01/1980 6 3 2 6 5 19 41 Aprovado
+927023018 Eryka Clézia Pires Dantas 10/07/1973 6 3 3 5 5 19 41 Aprovado
+927002113 Michelle Lisbôa Santos Teles 15/10/1983 4 4 4 5 5 19 41 Aprovado Negro
+927017685 Roseane Ramos Pedreira 15/06/1985 4 5 0 7 7 18 41 Aprovado Negro
+927009367 Carla Santos Reis 20/08/1991 2 3 4 8 6 18 41 Aprovado Negro
+927025380 Marcelo Silva Saback Santos 01/05/1981 4 4 2 6 7 18 41 Aprovado
+927015882 Uilma Crisostomo Dos Santos 29/04/1985 4 4 2 8 5 18 41 Aprovado Negro
+927008534 Catia Lima De Santana 16/05/1986 4 4 2 7 6 18 41 Aprovado Negro
+927000153 Francinne Martins Florencio 10/01/1992 4 3 3 8 5 18 41 Aprovado Negro
+927018273 Ananda Louise Barreto Carrilho 28/10/1993 5 4 1 7 6 18 41 Aprovado
+927016616 Silvana Darzé Serrano 12/06/1968 4 4 3 5 7 18 41 Aprovado
+927024785 Aline Rocha De Santana Das Virgens 07/12/1982 4 4 3 6 6 18 41 Aprovado
+927006475 Roseli Vitor Patricio 18/06/1983 6 4 1 7 5 18 41 Aprovado
+927023716 Sara Freitas Silva Fonseca 24/12/1984 4 3 4 7 5 18 41 Aprovado
+927011051 Carla Gabriele Calmon Alencar Silva 29/10/1988 4 5 2 6 6 18 41 Aprovado
+927018735 Andrêssa Sacramento Marinho 28/03/1990 4 5 2 5 7 18 41 Aprovado
+927000383 Barbara Souza De Andrade 20/03/1970 5 3 4 6 5 18 41 Aprovado Negro
+927007021 Alaine Santos Do Nascimento 07/01/1989 5 3 4 7 4 18 41 Aprovado
+927004655 Marigley Santos Lemos 28/11/1969 8 3 2 4 6 18 41 Aprovado
+927001712 Damiana Carneiro Do Carmo Santana 01/02/1983 6 5 2 5 5 18 41 Aprovado Negro
+927013554 Jaqueline Sampaio Schramm Mota 30/10/1975 3 3 3 7 8 17 41 Aprovado
+927005391 Larissa Santana Oliveira 11/02/1989 3 4 2 9 6 17 41 Aprovado
+927018080 Maria Claudia Barbosa Da Silva 04/07/1964 4 2 4 8 6 17 41 Aprovado Negro
+927008599 Rosângela Cristina De Santana Araújo 01/07/1975 5 2 3 7 7 17 41 Aprovado
+927015307 Ithana Passos Souza 04/08/1980 4 5 1 8 6 17 41 Aprovado
+927016968 Eliana Bomfim Da Silva 15/02/1978 4 3 4 8 5 17 41 Aprovado Negro
+927005981 Tatiana Machado De Farias 14/07/1978 4 5 2 6 7 17 41 Aprovado
+927018380 Cintiane Da Cunha Santos De Oliveira 01/05/1985 6 3 2 7 6 17 41 Aprovado
+927003071 Ana Regina Teixeira 15/01/1973 6 4 2 6 6 17 41 Aprovado
+927001888 Andrea Da Silva Abreu 01/03/1979 5 3 4 7 5 17 41 Aprovado
+927023698 Tatiane Reis Da Silva 14/02/1993 6 3 3 6 6 17 41 Aprovado Negro
+927002524 Marcos Inocencio De Carvalho 25/04/1961 6 5 2 5 6 17 41 Aprovado
+927013185 Fabiane Cerqueira 20/10/1991 6 5 2 5 6 17 41 Aprovado Negro
+927013891 Jessica Alves Medeiros 10/08/1987 5 5 4 5 5 17 41 Aprovado
+927019995 Luciano Louvores De Lima 06/01/1976 3 3 4 9 6 16 41 Aprovado Negro
+927010046 Adailda Palmeira Brandão 14/02/1981 4 4 2 9 6 16 41 Aprovado
+927007930 Soraya Da Silva Soares 25/09/1976 4 4 3 8 6 16 41 Aprovado
+927022262 Adrielli Santana Lemos 25/08/1989 4 4 3 8 6 16 41 Aprovado
+927010204 Ana Karolina Pinto Cruz Mascarenhas 10/10/1990 6 2 3 7 7 16 41 Aprovado
+927009656 Manoel Dos Santos 11/05/1980 4 4 4 6 7 16 41 Aprovado
+927008846 Nayla Caroline Reis De Azevedo 29/04/1986 6 5 1 8 5 16 41 Aprovado
+927018941 Queilla Thais Bispo Dos Santos 07/05/1986 6 4 2 6 7 16 41 Aprovado
+927014251 Jacira Santos Barreto 01/12/1987 7 3 2 6 7 16 41 Aprovado Negro
+927008679 Adriana Do Nascimento Cardoso 07/02/1989 5 4 3 9 4 16 41 Aprovado
+927017711 Adênia Taise Carregosa Dos Santos 01/03/1993 5 3 4 5 8 16 41 Aprovado
+927021108 Keyla Barreiro Nogueira 17/03/1996 6 4 2 7 6 16 41 Aprovado
+927012073 Ariadne Santos Luz 23/08/1990 7 3 3 7 5 16 41 Aprovado
+927004819 Shirley Rafaela Oliveira Gomes 30/01/1977 8 3 3 7 4 16 41 Aprovado Negro
+927013354 Clarice Lima Andrade 26/02/1983 5 2 3 8 8 15 41 Aprovado Negro
+927007741 Midiã Silva Conceição 21/02/1987 4 3 3 9 7 15 41 Aprovado
+927001334 Maciela Mikaelly Carneiro De Araújo 06/11/1997 6 3 2 8 7 15 41 Aprovado
+927018507 Viviane Da Silva Santos 25/07/1974 6 3 3 8 6 15 41 Aprovado
+927018290 Verusca Cristina Souza Santos 18/03/1976 6 2 4 8 6 15 41 Aprovado
+927016755 Anne Caroline Conceição Silva 19/08/1991 5 3 4 7 7 15 41 Aprovado
+927023051 Elaine Soares Santos 29/12/1975 5 4 4 6 7 15 41 Aprovado Negro
+927014111 Daniela Antunes De Menezes Neri Dos Santos 31/01/1981 5 4 4 7 6 15 41 Aprovado
+927010835 Virginia Climaco De Jesus 03/11/1986 5 5 3 7 6 15 41 Aprovado Negro
+927020967 Liliane Bittencourt 29/11/1987 5 4 4 6 7 15 41 Aprovado
+927011632 Maria Angélica Gonçalves de Oliveira 28/08/1968 7 4 3 7 5 15 41 Aprovado
+927021424 Barbara Da Encarnação Vilas Bôas 02/07/1972 8 3 3 6 6 15 41 Aprovado Negro
+927022644 Simone Barbosa Nascimento 13/06/1982 7 4 3 7 5 15 41 Aprovado
+927019275 Juliana Dos Santos Ribeiro 31/07/1984 7 3 4 6 6 15 41 Aprovado Negro
+927014396 Liliam Pereira Santos 13/03/1985 8 4 3 5 6 15 41 Aprovado
+927015912 Vadineia Dos Santos Guimarães 22/03/1973 4 4 0 4 6 22 40 Aprovado
+927019445 Janeille Carvalho Dos Santos 22/08/1983 3 3 2 7 5 20 40 Aprovado Negro
+927013110 Hilnai Cantuária Borges Da Mota 02/02/1980 2 2 4 7 6 19 40 Aprovado Negro
+927023178 Arianne De Oliveira Lima 02/08/1986 3 3 3 5 7 19 40 Aprovado Negro
+927014290 Aline Cunha Da Silva 28/04/1987 6 3 1 6 5 19 40 Aprovado Negro
+927004257 Gustavo Gomes Belini 03/09/1996 3 4 3 5 6 19 40 Aprovado
+927020488 Sônia Ribeiro Lima Queiroz 28/04/1972 4 4 3 8 2 19 40 Aprovado
+927009988 Luana Silva Leite Costa 21/06/1994 2 5 4 5 5 19 40 Aprovado
+927010931 Elayne Cristina Barreto Dos Santos 20/08/1989 5 4 3 3 6 19 40 Aprovado
+927015089 Tatiane Santos Da Silva 23/07/1981 3 4 1 8 6 18 40 Aprovado
+927002030 Isabele Sodré Ramos 12/04/1985 3 3 2 8 6 18 40 Aprovado Negro
+927003775 Rosilene Caldas De Argolo Angelo 06/04/1975 3 3 3 6 7 18 40 Aprovado
+927017355 Aline Carvalho Nascimento 19/03/1979 4 3 2 6 7 18 40 Aprovado Negro
+927023047 Carla Regina Da Silva Santos Pugliesi 19/03/1982 5 3 1 8 5 18 40 Aprovado
+927010290 Aílla Leal De Jesus Mascarenhas 15/05/1982 4 2 3 7 6 18 40 Aprovado
+927016387 Dinara Lacerda Dos Santos 31/08/1985 4 3 2 6 7 18 40 Aprovado Negro
+927008559 Leila Das Virgens Santos 27/03/1987 3 3 3 7 6 18 40 Aprovado
+927002003 Livana De Jesus Araujo 29/12/1994 3 5 1 8 5 18 40 Aprovado
+927000377 Daniela dos Santos Tosta Silva 18/05/1980 3 5 2 9 3 18 40 Aprovado
+927013531 João Faustino Andrade Junior 12/10/1983 4 4 2 7 5 18 40 Aprovado Negro
+927013657 Saionara De Sena Santos 02/05/1988 4 4 2 6 6 18 40 Aprovado
+927012513 Rebeca Oliveira Lacerda 03/04/1976 5 3 3 6 5 18 40 Aprovado
+927024935 Paulo Jose Pereira Dos Santos 05/04/1982 3 4 4 5 6 18 40 Aprovado
+927023751 Catarine Sacramento Brito 15/01/1995 3 5 3 7 4 18 40 Aprovado
+927018546 Andreia Cuesta Dos Santos 16/02/1970 6 4 2 4 6 18 40 Aprovado
+927013131 Pricila Santiago De Souza 18/01/1980 4 4 4 7 3 18 40 Aprovado
+927006054 Monique Lima De Jesus 17/05/2000 5 2 1 9 6 17 40 Aprovado
+927022424 Ednilza Maria Santana Costa Pacheco 25/09/1968 4 1 4 7 7 17 40 Aprovado Negro
+927014130 Atanaildes Souza Da Conceição 12/09/1975 4 1 4 6 8 17 40 Aprovado Negro
+927001744 Elenrose Pereira Dos Santos 10/05/1979 4 4 1 7 7 17 40 Aprovado
+927009249 Maiana Martins Borges 09/11/1979 3 4 2 8 6 17 40 Aprovado
+927022046 Daniela Figueiredo Freitas 30/01/1986 3 3 3 7 7 17 40 Aprovado
+927019500 Indionara Galvao Reis 13/04/1988 6 1 2 7 7 17 40 Aprovado
+927003767 Gleidiane Souza Lima Marinho 23/12/1980 6 2 2 8 5 17 40 Aprovado
+927006410 Luciana Oliveira Trindade 11/09/1981 5 4 1 6 7 17 40 Aprovado
+927008547 Adriana Amorim Guimaraes 07/08/1983 5 4 1 6 7 17 40 Aprovado
+927015586 Leila Stolze Gomes 19/03/1986 4 2 4 8 5 17 40 Aprovado
+927023414 Carina Lomi Fernandes Leao 01/12/1988 6 3 1 6 7 17 40 Aprovado Negro
+927015611 Lindiane Costa Lima 12/02/1992 3 4 3 6 7 17 40 Aprovado
+927010782 Lorena Oliveira De Carvalho 25/06/1992 3 4 3 7 6 17 40 Aprovado Negro
+927015186 Zeomar Pinheiro Sampaio 24/02/1965 5 2 4 7 5 17 40 Aprovado
+927024914 Débora Rosário Da Silva Santos 21/01/1967 5 3 3 7 5 17 40 Aprovado
+927013642 Joilma Mascarenhas Da Silva Santana 20/05/1978 6 3 2 5 7 17 40 Aprovado
+927003281 Nubia Maria Gomes Da Silva 21/04/1979 4 4 3 6 6 17 40 Aprovado
+927000650 Virgínia Vieira Santos Moreira 08/12/1979 3 3 5 6 6 17 40 Aprovado
+927008217 Nanci Silva Dos Santos 08/06/1986 5 4 2 6 6 17 40 Aprovado Negro
+927008956 Alcimara Ramos Melo 06/04/1987 4 4 3 5 7 17 40 Aprovado
+927022258 Jemile De Souza Moreira 27/11/1973 6 5 2 4 6 17 40 Aprovado
+927012157 Ednalva Do Bonfim Alves Souza 20/08/1972 7 4 3 5 4 17 40 Aprovado
+927022949 José Lázaro Rodrigues da Conceição Martins 11/01/1984 6 4 4 4 5 17 40 Aprovado Negro
+927015603 Lorena Pereira Do Nascimento 29/04/1993 4 3 1 9 7 16 40 Aprovado Negro
+927004560 Rafaela Gois Dos Santos 16/01/1997 3 3 2 9 7 16 40 Aprovado Negro
+927019865 Naiane Rocha De Araújo Rosa 12/01/1989 4 4 1 8 7 16 40 Aprovado
+927023279 Anderson Lima De Araujo 02/05/1989 5 3 1 7 8 16 40 Aprovado
+927006182 Renata Castro Do Nascimento 05/04/1976 5 4 1 6 8 16 40 Aprovado
+927019201 Sandra Do Vale Conceicão 25/12/1977 4 3 3 7 7 16 40 Aprovado
+927004411 Janeide De Almeida Estrela 08/04/1981 5 2 3 8 6 16 40 Aprovado PcD Negro
+927016777 Liliane Costa De Oliveira Galvão 29/03/1984 5 3 2 9 5 16 40 Aprovado
+927024139 Seide Caroline Silva Nunes 30/09/1984 4 4 2 8 6 16 40 Aprovado
+927010587 Patricia Ariane Souza Lima 23/12/1988 3 4 3 8 6 16 40 Aprovado Negro
+927002647 Maria Thais Queiroz Oliveira 01/08/1968 5 3 3 7 6 16 40 Aprovado
+927016120 Marielcy Oliveira Figueiredo Silva 03/05/1975 5 5 1 6 7 16 40 Aprovado
+927023592 Zélia De Jesus Assunção 28/03/1979 6 2 3 6 7 16 40 Aprovado Negro
+927025352 Rosana Ferreira Santos 10/06/1979 5 5 1 7 6 16 40 Aprovado Negro
+927012225 Selma Carvalho Da Paixão 28/04/1981 5 4 2 7 6 16 40 Aprovado
+927016816 Rívia De Jesus Santos 11/11/1988 4 4 3 6 7 16 40 Aprovado Negro
+927020878 Icaro Mateus Gonçalves Ferreira Dos Santos 05/02/1992 4 3 4 7 6 16 40 Aprovado
+927018798 Raquel Dos Santos Xavier 25/03/1992 4 4 3 6 7 16 40 Aprovado Negro
+927022444 Simone Novais De Almeida Lima 07/10/1977 5 5 2 6 6 16 40 Aprovado Negro
+927007407 Rubens Macedo Souza 16/04/1979 7 2 3 5 7 16 40 Aprovado
+927018808 Dayana Silva Gomes De Almeida 29/08/1981 6 4 2 9 3 16 40 Aprovado
+927005221 Adriano De Jesus Souza 19/12/1986 6 2 4 7 5 16 40 Aprovado Negro
+927013895 Jessica Rosa Aguiar 28/03/1988 5 4 3 7 5 16 40 Aprovado
+927012953 Rafaela Santos De Oliveira Nasaré 20/01/1991 5 3 4 7 5 16 40 Aprovado
+927001979 Lílian Virgínia Cardoso Gonzaga Dos Santos 01/04/1991 4 4 4 8 4 16 40 Aprovado Negro
+927012548 Bruna Caroline Silva Gomes 10/04/1993 6 3 5 5 5 16 40 Aprovado Negro
+927020644 Lívia Cátia Soares Da Silva 29/11/1977 6 1 2 8 8 15 40 Aprovado
+927015382 Janiele Santos Soares de Mesquita 08/03/1996 5 2 2 9 7 15 40 Aprovado
+927012790 Milena Souza Dos Santos 07/08/1980 5 3 2 7 8 15 40 Aprovado
+927023623 Gabriela Oliveira De Carvalho 03/05/1988 5 2 3 8 7 15 40 Aprovado Negro
+927019726 Gisele Gonçalves Pereira Barbosa 15/09/1988 5 4 1 7 8 15 40 Aprovado
+927007947 Adryeini Dantas Baracho Faria 10/08/1990 2 5 3 8 7 15 40 Aprovado
+927022921 Jeane Dos Anjos Moreira 23/03/1992 5 3 2 7 8 15 40 Aprovado Negro
+927019365 Irlandia Gomes De Souza 03/07/1965 5 4 2 6 8 15 40 Aprovado Negro
+927012741 Célia Cristina Silva Pinto 19/10/1966 4 4 3 8 6 15 40 Aprovado
+927020118 Tiago Souza De Figueiredo 02/10/1981 3 5 3 7 7 15 40 Aprovado Negro
+927006247 Joelma Nascimento Da Silva 23/06/1985 5 4 2 7 7 15 40 Aprovado
+927016260 Alcigledes De Jesus Sales 25/02/1994 4 3 4 8 6 15 40 Aprovado Negro
+927001255 Taina Da Silva Mata 05/02/1995 6 3 2 8 6 15 40 Aprovado Negro
+927008313 Cleverson Carlos Nascimento Oliveira 03/04/1997 4 4 3 8 6 15 40 Aprovado Negro
+927006909 Cristiane Silva Conceição Dos Santos 22/04/1979 5 5 2 7 6 15 40 Aprovado
+927004118 Everidiana Sena Santana 23/03/1988 6 3 3 7 6 15 40 Aprovado Negro
+927015695 Naiara Correia De Paula Costa 12/03/1989 6 4 2 7 6 15 40 Aprovado
+927019163 Alexandra Maria Menezes Santos Silva 02/05/1995 6 4 2 8 5 15 40 Aprovado Negro
+927015866 Estela Maria Silva De Carvalho 23/03/1966 6 4 3 6 6 15 40 Aprovado
+927015700 Leila Carla Silva Gonçalves 09/05/1977 5 4 4 6 6 15 40 Aprovado
+927019896 Edlene De Santana Costa Oliveira 04/08/1981 5 5 3 7 5 15 40 Aprovado
+927007749 Gleice Oliveira Tapioca 28/12/1982 7 3 3 6 6 15 40 Aprovado
+927013009 Laís Morais Sampaio 12/12/1992 6 2 5 7 5 15 40 Aprovado
+927002235 Jouze Vilar Marques Da Silva 10/11/1987 7 4 3 7 4 15 40 Aprovado
+927023384 Regiane Lessy Da Silva Costa 10/03/1978 8 3 4 5 5 15 40 Aprovado
+927005272 Sabrina Dos Santos Lopes 17/09/1985 8 5 2 5 5 15 40 Aprovado
+927014177 Adriana Farias Dantas 18/07/1974 4 2 2 6 4 21 39 Aprovado
+927015498 Maristela Santos De Carvalho 06/09/1980 3 3 2 5 6 20 39 Aprovado Negro
+927014053 Raquel Mariano Fortes 08/11/1985 5 3 2 4 5 20 39 Aprovado
+927006433 Itana Galdino Da Silva 17/04/1983 4 3 2 6 5 19 39 Aprovado
+927005018 Elidia Coelho Dos Santos Candeias 24/07/1979 3 4 3 8 2 19 39 Aprovado Negro
+927005231 Miriam De Oliveira Melo 02/08/1985 4 4 2 6 4 19 39 Aprovado
+927025539 Gabriela De Oliveira De Jesus 20/04/1993 3 4 3 5 5 19 39 Aprovado
+927017591 Tatiane Da Silva Pereira Leal 22/10/1985 2 4 2 6 7 18 39 Aprovado
+927001657 Leci Sacramento Felix De Araujo 29/10/1968 5 3 1 7 5 18 39 Aprovado
+927022915 Claudiane Garcia Neves 24/11/1982 4 2 3 6 6 18 39 Aprovado Negro
+927013016 Luciane Rodrigues Santana 15/07/1974 4 5 1 5 6 18 39 Aprovado
+927021118 Rayanna Sodre Dos Santos 01/01/1988 4 4 2 6 5 18 39 Aprovado
+927005938 Claudia Guimaraes Correia 18/03/1985 5 4 2 5 5 18 39 Aprovado
+927020055 Marcos Silva Oliveira 04/01/1986 5 3 3 6 4 18 39 Aprovado Negro
+927014376 Juliana Marques Lima 28/04/1983 4 4 0 7 7 17 39 Aprovado
+927024890 Sara Araújo De Carvalho Ribeiro 08/03/1983 4 4 1 8 5 17 39 Aprovado
+927016967 Camila Pereira Gomes 30/03/1992 5 4 0 6 7 17 39 Aprovado Negro
+927015109 Joyce Carolina Moreira Nunes Macedo 11/02/1987 4 4 2 6 6 17 39 Aprovado Negro
+927025065 Patricia Alves Pereira 31/01/1975 6 3 2 5 6 17 39 Aprovado
+927017370 Luciana Nascimento De Araujo 21/09/1984 6 3 2 6 5 17 39 Aprovado
+927017153 Adson Fetal Costa 27/04/1984 4 3 1 7 8 16 39 Aprovado Negro
+927021898 Juscélia Souza De Lima 04/09/1984 3 1 4 7 8 16 39 Aprovado Negro
+927021125 Adriana De Oliveira Costa 21/06/1985 5 1 2 9 6 16 39 Aprovado
+927005129 Rosiane Lima Evangelista 25/03/1986 3 3 2 8 7 16 39 Aprovado Negro
+927023674 Rubia Graciela De Souza Arnaldo 18/07/1977 3 3 3 8 6 16 39 Aprovado Negro
+927014120 Rafaela Calmon Santos 24/02/1979 3 3 3 8 6 16 39 Aprovado
+927000470 Luciana Pereira Da Conceição Ribeiro 09/10/1980 3 4 2 8 6 16 39 Aprovado Negro
+927015559 Denise Da Silva Britto 27/01/1988 6 1 2 9 5 16 39 Aprovado Negro
+927013900 Cíntia Maria Araujo Dos Santos Gonçalves 06/01/1975 4 3 3 5 8 16 39 Aprovado
+927008242 Luciana Almeida Farani Motta 07/07/1981 5 4 1 8 5 16 39 Aprovado
+927019567 Patricia Portela Vidal Dos Santos 27/04/1983 4 4 2 6 7 16 39 Aprovado Negro
+927024019 Claudia De Souza De Jesus 22/03/1986 5 3 2 6 7 16 39 Aprovado Negro
+927024826 Taíse Batista De Souza 04/03/1993 4 4 2 8 5 16 39 Aprovado Negro
+927000073 Yago André De Lima Alcântara 03/06/1994 2 4 4 6 7 16 39 Aprovado Negro
+927011340 Norma Maia São José 01/09/1961 6 3 2 6 6 16 39 Aprovado
+927016690 Cleber Pereira Coelho 13/06/1971 4 4 3 7 5 16 39 Aprovado
+927014665 Rosimary Batista De Queiroz 13/12/1974 5 4 2 5 7 16 39 Aprovado
+927015117 Priscila Gonçalves Cerqueira 09/05/1980 4 3 4 5 7 16 39 Aprovado
+927007127 Diane Souza Da Cruz 03/06/1981 5 4 2 5 7 16 39 Aprovado Negro
+927023586 Bethsabeia Campos De Souza Fernandes 06/05/1983 5 2 4 7 5 16 39 Aprovado Negro
+927006551 Jemima Conceição Pimentel Gomes De Jesus 24/07/1986 5 4 2 6 6 16 39 Aprovado
+927011455 Camila Santos Dias 13/08/1991 4 5 2 6 6 16 39 Aprovado
+927004690 Leonardo Santos Silva 14/03/1992 5 5 1 6 6 16 39 Aprovado Negro
+927006892 Adilane Simão Santana 12/04/1992 4 3 4 6 6 16 39 Aprovado
+927011242 Lindinalva Silva Andrade 25/06/1979 5 3 4 7 4 16 39 Aprovado Negro
+927021174 Evandro Ribeiro Bispo 04/07/1984 7 3 2 4 7 16 39 Aprovado Negro
+927023159 Davi Santana Bezerra 17/06/1980 5 3 5 4 6 16 39 Aprovado
+927008607 Manuela Dos Santos Santiago 28/03/1990 4 1 3 8 8 15 39 Aprovado Negro
+927007153 Jefferson Da Silva Moreira 20/12/1991 5 2 1 9 7 15 39 Aprovado Negro
+927010548 Ariane De Lima Vieira 18/08/1983 4 3 2 7 8 15 39 Aprovado Negro
+927017227 Marizete De Jesus Dos Santos 18/02/1991 3 4 2 7 8 15 39 Aprovado Negro
+927003689 Brena Guimarães De Lima 13/03/1994 5 1 3 10 5 15 39 Aprovado
+927018149 Maria Isabel Mendes Borges Santana 13/10/1989 5 3 2 8 6 15 39 Aprovado Negro
+927021795 Marcia Ferreira De Souza 31/03/1992 4 3 3 6 8 15 39 Aprovado Negro
+927014733 Anabel Santos Araujo 31/07/1993 4 4 3 9 4 15 39 Aprovado Negro
+927001879 Alexsandra Honorato Da Silva 27/11/1974 4 4 4 8 4 15 39 Aprovado
+927021853 Gislani De Almeida Santos Fiordelmundo 23/01/1985 6 2 4 9 3 15 39 Aprovado Negro
+927013813 Élida Verena Pinheiro Dos Santos Gonçalves 20/04/1985 6 4 2 6 6 15 39 Aprovado
+927010173 Sabrina Oliveira Dos Anjos Santos 09/08/1985 3 4 5 6 6 15 39 Aprovado
+927025404 Erica De Jesus Sales Sanches 23/11/1985 4 4 4 6 6 15 39 Aprovado
+927006943 Raiana Beanes Da Silva Santos 28/01/1991 6 4 2 7 5 15 39 Aprovado
+927018252 Jobson Nascimento Da Cunha 25/03/1973 7 3 3 4 7 15 39 Aprovado
+927015197 Victória Emanuelle Oliveira Sousa 03/02/1998 4 5 4 8 3 15 39 Aprovado
+927023806 Rafaela De Santana 16/12/1981 6 5 3 3 7 15 39 Aprovado
+927008517 Ingrid Conceição Dos Santos 27/09/1990 7 4 3 6 4 15 39 Aprovado
+927011673 Raiane Costa Sousa 07/10/1990 6 5 3 7 3 15 39 Aprovado
+927005929 Cibele Silva De Cerqueira Costa 15/10/1965 5 4 1 2 6 20 38 Aprovado
+927025228 Rejane Souza Costa Matos 01/06/1976 4 2 2 6 5 19 38 Aprovado
+927010572 Daniela Jesus De Oliveira Bená 06/07/1980 4 3 1 8 3 19 38 Aprovado
+927009508 Maiara Lima Silva 09/08/1994 4 3 1 6 5 19 38 Aprovado
+927017751 Lucilene Teles Ferreira 21/06/1973 5 4 2 4 4 19 38 Aprovado
+927009256 Eliene Silva Dos Santos 17/02/1984 4 1 3 6 6 18 38 Aprovado Negro
+927000541 Aline Santiago Amaral Martins 30/06/1986 5 3 0 7 5 18 38 Aprovado Negro
+927016111 Sara da Silva Leal Andrade 04/11/1987 3 2 3 6 6 18 38 Aprovado
+927016348 Luciana Santana Bernardes De Almeida 21/03/1996 3 4 1 6 6 18 38 Aprovado
+927011480 Joselina Nery Damasceno Santos 14/05/1979 4 4 1 4 7 18 38 Aprovado
+927006913 Juliana Souza Silva 15/04/1981 5 2 2 6 5 18 38 Aprovado
+927023760 Cíntia Dos Santos Lessa 28/06/1981 2 4 3 4 7 18 38 Aprovado Negro
+927024968 Ana Paula Francisco Dos Santos 26/07/1984 5 3 1 6 5 18 38 Aprovado Negro
+927000681 Adla Cristina Batista Da Silva 20/04/1986 2 3 4 6 5 18 38 Aprovado
+927011141 Janaina Garcia Vaz Pinto 06/11/1987 4 4 2 5 5 18 38 Aprovado
+927003122 Fernanda Paranhos Luz Dos Santos 26/10/1991 3 5 2 5 5 18 38 Aprovado Negro
+927008038 Maria Guiomar Mendes Fragoso 12/12/1961 2 4 2 6 7 17 38 Aprovado
+927014292 Terezinha Pereira Dos Santos 20/05/1972 2 3 3 7 6 17 38 Aprovado Negro
+927016604 Shirlei Sales Santana 24/02/1978 3 4 1 7 6 17 38 Aprovado
+927012005 Jidelma Ribeiro Dos Santos Vinagre 20/04/1978 4 3 1 8 5 17 38 Aprovado
+927011998 Camila Coelho Ferreira Rebouças 19/09/1986 3 4 1 8 5 17 38 Aprovado
+927012737 Priscila Andrade Dos Santos 22/10/1986 4 2 2 7 6 17 38 Aprovado
+927011612 Leila França Lima 11/12/1978 3 3 3 7 5 17 38 Aprovado Negro
+927000842 Erika Lima De Barros Ramos 01/04/1979 5 3 1 7 5 17 38 Aprovado
+927001316 Jocineide Gomes Santos 10/08/1982 5 1 3 7 5 17 38 Aprovado Negro
+927018708 Tirza Da Silva Dias Brito 23/04/1987 4 4 1 6 6 17 38 Aprovado Negro
+927010397 Jamile Do Amor Divino Cardoso 05/02/1991 3 2 4 5 7 17 38 Aprovado Negro
+927023644 Eliana Magalhães Dos Santos 16/05/1969 4 4 2 5 6 17 38 Aprovado
+927010789 Sandra Sousa Santiago 02/06/1970 4 3 3 5 6 17 38 Aprovado Negro
+927023539 Tereza Lucia De Lima Cardoso 09/03/1973 4 3 3 6 5 17 38 Aprovado
+927011764 Janine Ferreira Leite 01/05/1979 5 1 4 6 5 17 38 Aprovado
+927010637 Renata Teixeira Luna 23/02/1982 4 4 2 6 5 17 38 Aprovado
+927019368 Naiana Santos Carvalho 24/09/1986 4 4 2 8 3 17 38 Aprovado
+927025268 Gilmar Neri Dos Santos 06/12/1976 2 5 4 8 2 17 38 Aprovado
+927000020 Caroline Gesteira Gonçalves 17/05/1986 5 4 2 4 6 17 38 Aprovado
+927003936 Renato Jose Queiroz Borges 07/02/1992 5 3 3 7 3 17 38 Aprovado
+927005806 Emile França Da Paixão Da Silva 20/07/1985 6 4 2 5 4 17 38 Aprovado
+927016888 Marineide Alves Teixeira 23/12/1968 4 2 2 7 7 16 38 Aprovado
+927016363 Sandra Cristina Gomes Da Silva 26/02/1977 3 2 3 7 7 16 38 Aprovado Negro
+927007487 Elisangela Carvalho Dos Santos Costa De Santana 01/02/1976 4 3 2 7 6 16 38 Aprovado
+927003195 Andrea De Lima Silva 18/05/1977 4 1 4 6 7 16 38 Aprovado
+927011267 Cleciane Francisca Dos Santos 10/07/1986 5 2 2 7 6 16 38 Aprovado
+927010943 Jessica Fernandes Da Cruz Leite 30/09/1986 3 5 1 6 7 16 38 Aprovado
+927001794 Alana Barros Nunes 23/02/1987 4 3 2 7 6 16 38 Aprovado
+927015787 Inara De Goes Freitas Dos Santos 15/04/1988 5 2 2 7 6 16 38 Aprovado
+927020270 Francielle Silva Caetano 02/09/1989 3 4 2 7 6 16 38 Aprovado Negro
+927016017 Jamile Patrícia Santos Rodrigues 14/04/1969 5 4 1 8 4 16 38 Aprovado
+927021255 Alessandra Cerqueira Trigo 01/07/1975 5 3 2 6 6 16 38 Aprovado
+927022844 Conceição Maria Lopes De Oliveira 16/07/1979 5 4 1 5 7 16 38 Aprovado
+927002667 Alessandra Peixoto Freitas Lima 17/01/1980 4 3 3 6 6 16 38 Aprovado
+927001021 Luana Rocha Bispo Cardoso 18/07/1982 5 3 2 6 6 16 38 Aprovado
+927006536 Alessandra Cardoso Santos 02/09/1982 6 3 1 6 6 16 38 Aprovado Negro
+927015765 Thaisi De Andrade Novais 30/09/1982 3 5 2 6 6 16 38 Aprovado
+927001380 Cidilandia Ferreira Da Silva 13/01/1986 4 4 2 6 6 16 38 Aprovado
+927024573 Flávia Grave De Marcelo Borges 19/01/1989 6 4 0 6 6 16 38 Aprovado Negro
+927006253 Ruidelmírame Freitas Lima 15/01/1968 5 3 3 7 4 16 38 Aprovado
+927023029 Íris França Xavier De Jesus 20/04/1979 4 4 3 6 5 16 38 Aprovado PcD Negro
+927008524 Cintia Gomes Souza 13/11/1982 7 2 2 6 5 16 38 Aprovado
+927000354 Handherson Leyltton Costa Damasceno 12/08/1983 5 4 2 6 5 16 38 Aprovado
+927022119 Agathangela Cardozo Dos Santos 31/07/1984 4 4 3 5 6 16 38 Aprovado
+927023823 Jéssica Castro Gomes 08/09/1992 4 4 3 7 4 16 38 Aprovado
+927015172 Taís Tâmara Correia Da Conceição 08/01/1981 5 4 3 3 7 16 38 Aprovado
+927005466 Edmundo Vinicius Almeida Santos 09/10/1983 7 3 2 6 4 16 38 Aprovado Negro
+927022638 Liliane Nascimento Conceicao 19/03/1984 7 4 1 5 5 16 38 Aprovado Negro
+927008591 Tamara Costa Dos Santos 22/12/1984 5 5 2 5 5 16 38 Aprovado
+927014677 Jamile Da Silva Santos 18/07/1989 9 3 1 7 2 16 38 Aprovado Negro
+927023837 Núbia Oliveira Da Silva 20/09/1987 3 3 2 8 7 15 38 Aprovado Negro
+927008642 Alvani Santana Dos Santos Pontes 29/08/1979 2 4 3 6 8 15 38 Aprovado Negro
+927018697 Elide Silva Dos Santos 03/08/1985 6 0 3 9 5 15 38 Aprovado
+927017175 Joana Angélica Rocha Cezar Dantas 20/09/1985 4 2 3 7 7 15 38 Aprovado
+927010633 Edjane Da Silva Oliveira 19/03/1987 5 3 1 8 6 15 38 Aprovado Negro
+927009413 Roberta Cabral Rangel 16/05/1991 5 3 1 9 5 15 38 Aprovado
+927007998 Sara Betania De Souza Silva 22/08/1974 5 2 3 7 6 15 38 Aprovado
+927014546 Lorena Santos Mendes 07/11/1985 6 2 2 6 7 15 38 Aprovado Negro
+927010071 Mayana Souza Santos 25/11/1987 4 3 3 7 6 15 38 Aprovado
+927002791 Jaqueline Santos Mota 04/04/1989 5 3 2 6 7 15 38 Aprovado
+927007232 Nathalie Menezes Silva Do Bomfim 25/12/1992 3 4 3 9 4 15 38 Aprovado
+927003760 Neuma De Souza Cordeiro 04/04/1968 3 5 3 7 5 15 38 Aprovado
+927023532 Eliete Ferreira Costa 19/08/1977 3 4 4 7 5 15 38 Aprovado
+927012021 Renata Dos Santos Araujo 14/10/1981 4 4 3 5 7 15 38 Aprovado
+927023962 Luciene Dias Dos Santos Silva 08/07/1982 5 5 1 7 5 15 38 Aprovado Negro
+927025256 Lidiane Maria Lima 26/11/1983 5 4 2 7 5 15 38 Aprovado
+927008422 Ruth Santos De Almeida Lapa 25/01/1985 5 3 3 7 5 15 38 Aprovado
+927018878 Tainã Pereira Marques Dos Santos 11/03/1988 6 3 2 6 6 15 38 Aprovado
+927023788 Suline Matos Ferreira Almeida 21/08/1988 5 2 4 5 7 15 38 Aprovado
+927002074 Mercia Silva Dos Santos 04/04/1986 4 3 5 6 5 15 38 Aprovado Negro
+927020193 Sijane De Almeida Freitas 24/05/1989 6 4 2 6 5 15 38 Aprovado Negro
+927001173 Jucinan Nascimento Da Silva 06/05/1993 5 4 3 9 2 15 38 Aprovado
+927015996 Mariana Sacramento Santos 02/07/1997 4 4 4 6 5 15 38 Aprovado
+927015915 Adriana Oliveira Sales Gomes 01/03/1975 4 5 4 6 4 15 38 Aprovado
+927022716 Luciene Vasconcelos Ribeiro Soledade 20/05/1957 5 3 1 7 3 18 37 Aprovado
+927000189 Ana Cristina Santana Da Conceição 18/01/1971 3 3 2 6 4 19 37 Aprovado
+927010450 Daniella Carvalho Lordelo Rego 10/05/1976 6 1 1 8 3 18 37 Aprovado
+927017140 Gláucia Da Conceição De Almeida 29/08/1978 4 3 2 5 5 18 37 Aprovado
+927005309 Jocicleide Araujo Barbosa Dos Santos 29/09/1985 3 3 3 4 6 18 37 Aprovado Negro
+927002128 Marilia Mascarenhas Lima 05/04/1991 4 3 2 4 6 18 37 Aprovado
+927010586 Maria De Fatima Ferreira Ventn 13/05/1967 6 3 2 5 3 18 37 Aprovado Negro
+927015767 Elen Caroline Ferreira Vasconcelos 15/07/1994 6 0 2 7 5 17 37 Aprovado
+927009589 Jhenyfer Ferreira Da Silva 14/07/1998 3 3 2 9 3 17 37 Aprovado
+927023869 Marluce Reis Santos 07/12/1980 2 5 2 5 6 17 37 Aprovado
+927015687 Ana Paula Santos Neves De Matos 06/01/1981 6 1 2 8 3 17 37 Aprovado Negro
+927014360 Marili Ribeiro Brito 31/03/1985 6 2 1 6 5 17 37 Aprovado Negro
+927019665 Taiane Santos Coelho 15/09/1991 4 2 3 5 6 17 37 Aprovado
+927007861 Gabriela Jesus De Amorim 18/06/1994 3 4 2 7 4 17 37 Aprovado
+927014519 Debora Lacerda Santos 04/05/1982 5 4 1 4 6 17 37 Aprovado
+927005284 Cristiane Santos De Oliveira 06/12/1983 3 4 3 7 3 17 37 Aprovado Negro
+927009794 Roberta Tachard Pantaleão 28/07/1989 5 4 1 6 4 17 37 Aprovado
+927010437 Maynara Caroline Da Silva Côrtes De Souza 23/08/1997 3 4 3 6 4 17 37 Aprovado
+927003794 Regina Morais Do Carmo Portela 16/01/1968 7 3 1 6 3 17 37 Aprovado
+927020696 Tarcisio Valter Cunha Nery 01/09/1979 4 4 3 4 5 17 37 Aprovado Negro
+927005798 Daniela Oliveira Orrico Cavalcante De Oliveira 15/01/1977 3 4 1 8 5 16 37 Aprovado
+927001357 Lilian De Jesus Araujo Moura Ribeiro 22/09/1980 3 3 2 7 6 16 37 Aprovado Negro
+927015179 Gislene Francisca Dos Santos 05/09/1981 3 4 1 8 5 16 37 Aprovado Negro
+927008224 Cicero Jose Dos Santos 09/09/1981 3 1 4 7 6 16 37 Aprovado Negro
+927000186 Carla Sampaio Dos Santos 04/10/1982 4 1 3 6 7 16 37 Aprovado
+927002161 Edna Cristina Pereira Dos Santos Lino 01/10/1983 1 4 3 7 6 16 37 Aprovado Negro
+927009888 Adriana Oliveira De Sena Ribeiro 03/01/1984 3 4 1 8 5 16 37 Aprovado
+927018565 Manoel Luiz Santos Da Silva 09/08/1984 4 3 1 6 7 16 37 Aprovado
+927011105 Mariana Linhares Calvetti 28/06/1987 4 2 2 8 5 16 37 Aprovado
+927006250 Maria Luiza Machado Gusmao 18/02/1988 5 2 1 7 6 16 37 Aprovado Negro
+927001764 Lílian Silvana Corrêa Da Purificação 23/02/1988 4 3 1 7 6 16 37 Aprovado
+927000867 Jamile Sapucaia De Sena 08/09/1991 3 2 3 7 6 16 37 Aprovado
+927018360 Magali Conceição Santos 03/01/1993 3 3 2 6 7 16 37 Aprovado
+927016602 Dayane Do Monte Dias 30/08/1997 4 2 2 8 5 16 37 Aprovado Negro
+927015742 Jocenira Reis Santos 31/01/1971 2 3 4 6 6 16 37 Aprovado Negro
+927016004 Maria Elisangela Machado 17/03/1974 4 3 2 7 5 16 37 Aprovado PcD Negro
+927009674 Martha Dos Santos Matos 20/08/1975 3 3 3 6 6 16 37 Aprovado
+927015509 Gilmeire De Santana Costa 16/08/1976 3 4 2 7 5 16 37 Aprovado
+927021209 Sheila Leal Barbosa 22/07/1977 5 3 1 6 6 16 37 Aprovado
+927012785 Carla Patricia Menezes De Oliveira Capirunga 15/05/1978 3 4 2 8 4 16 37 Aprovado
+927009316 Mercia Simone Dos Santos Jesus Pereira 03/01/1980 3 4 2 6 6 16 37 Aprovado Negro
+927024352 Margeore Abby Dos Santos Nascimento 13/06/1980 6 2 1 8 4 16 37 Aprovado
+927016740 Rilza Dos Santos Ribeiro 05/03/1985 4 4 1 7 5 16 37 Aprovado
+927021422 Daiane Messias Dos Santos 27/06/1987 4 3 2 7 5 16 37 Aprovado Negro
+927019389 Niviane Ferreira Gerson Gonçalves 29/11/1977 5 3 2 6 5 16 37 Aprovado
+927017631 Jailton Tiburtino De Oliveira 30/08/1983 3 3 4 5 6 16 37 Aprovado
+927017297 Laila Pimentel Nogueira 28/04/1987 5 2 3 6 5 16 37 Aprovado
+927021461 Luiza Almeida Borges 29/10/1994 6 3 1 7 4 16 37 Aprovado
+927014528 Maria Sandra Moura Guimarães 25/12/1976 2 4 5 4 6 16 37 Aprovado
+927012736 Lubia Almeida Santos 31/12/1988 4 5 2 6 4 16 37 Aprovado
+927008438 Tiago De Araujo Santos 04/11/1989 4 5 2 5 5 16 37 Aprovado PcD Negro
+927000422 Gabriele Oliveira Da Silva 23/12/1998 3 5 3 5 5 16 37 Aprovado
+927022868 Elisangela Cunha Santos 10/09/1976 7 3 2 5 4 16 37 Aprovado
+927005789 Ariana Teodora Guimarães 20/09/1983 5 3 4 5 4 16 37 Aprovado
+927007883 Tatiana De Oliveira Conceição 26/07/1986 6 3 3 5 4 16 37 Aprovado Negro
+927010078 Railda Dos Santos Menezes 26/03/1971 4 2 2 7 7 15 37 Aprovado Negro
+927003810 Adriana dos Santos Souza 28/10/1983 4 3 1 6 8 15 37 Aprovado Negro
+927018133 Iara De Oliveira Santos 01/03/1987 3 2 3 7 7 15 37 Aprovado Negro
+927002599 Vanesca Silva Leite Sant Ana 16/05/1991 5 1 2 7 7 15 37 Aprovado
+927007264 Carolaine Da Silva Cajueiro 21/04/1997 4 1 3 8 6 15 37 Aprovado
+927017930 Márcia De Cássia Nascimento Conceição 04/03/1976 3 4 2 8 5 15 37 Aprovado
+927000813 Thais Huoya Brandao 12/02/1978 5 2 2 6 7 15 37 Aprovado
+927008941 Daniela De Jesus Pinto 14/02/1980 5 2 2 6 7 15 37 Aprovado Negro
+927013546 Viviane Miranda Teles 19/01/1981 1 3 5 6 7 15 37 Aprovado
+927009900 Dalva Quele Silva De Sousa 08/07/1985 5 2 2 6 7 15 37 Aprovado Negro
+927010327 Paula Sobrinho Nascimento 31/05/1986 3 3 3 6 7 15 37 Aprovado Negro
+927011774 Rafaela Oliveira Dos Santos 21/11/1990 4 2 3 7 6 15 37 Aprovado Negro

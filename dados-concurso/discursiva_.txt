@@ -1,0 +1,223 @@
+927009086 Genario Dos Santos 26/09/1984 20 20 40 Aprovado Negro
+927018643 Nadjara Felix Ferreira 06/07/1986 20 18 38 Aprovado Negro
+927017355 Aline Carvalho Nascimento 19/03/1979 18 20 38 Aprovado Negro
+927009091 Juceleide Borges Correia 17/08/1982 20 18 38 Aprovado
+927022635 Edna Lorena Souza De Brito 22/02/1985 18 20 38 Aprovado Negro
+927022477 Ludimila Maria Andrade Dos Santos 24/02/1987 18 20 38 Aprovado
+927018242 Daniele De Jesus Gomes Moreira 10/05/1982 20 18 38 Aprovado Negro
+927005670 Anaile Andrade De Jesus Cerqueira 20/06/1993 20 17 37 Aprovado
+927010365 Edvaldo Coelho Santana 29/04/1999 20 16 36 Aprovado Negro
+927014048 Yale Cunha Avelino 23/01/1989 20 16 36 Aprovado
+927014078 Daniele Carvalho Silva 09/09/1989 20 16 36 Aprovado Negro
+927022949 José Lázaro Rodrigues da Conceição Martins 11/01/1984 20 16 36 Aprovado Negro
+927015356 Maria Edna Santos 20/09/1990 20 16 36 Aprovado
+927000467 Leticia Da Cruz Souza 31/05/1995 20 16 36 Aprovado
+927012563 Leidiane Sampaio Borges 10/10/1988 20 16 36 Aprovado Negro
+927022834 Maria Sara Alves De Assis 15/01/1996 20 16 36 Aprovado
+927000884 Amanda Tourinho Silva Marinho 23/12/1982 20 15 35 Aprovado Negro
+927023414 Carina Lomi Fernandes Leao 01/12/1988 18 16 34 Aprovado Negro
+927015500 Silviaelane Castro Mauricio Dos Santos 28/01/1980 20 14 34 Aprovado Negro
+927025205 Pauliane Brito Da Silva 07/07/1981 20 14 34 Aprovado Negro
+927015080 Joneis Canedo De Santana Dos Santos 16/04/1986 20 14 34 Aprovado Negro
+927007871 Cléuma Rocha Carvalho 13/07/1981 18 16 34 Aprovado
+927014438 Flávia Carol Da Silva De Jesus 20/07/1987 20 14 34 Aprovado
+927012071 Tatinai Rodrigues Cardoso 27/02/1986 20 14 34 Aprovado Negro
+927014291 Priscila Oliveira Nascimento Reis 03/12/1981 20 14 34 Aprovado
+927023468 Vitor Alexandre Noronha Reis 18/07/1992 20 14 34 Aprovado
+927000220 Marcel Musse Pereira 17/09/1985 18 16 34 Aprovado
+927014863 Ladyane Rocha Ferreira 12/09/1989 20 14 34 Aprovado
+927025577 Jonatan De Santana Miranda Amorim 02/09/1984 16 18 34 Aprovado
+927022629 Raiane Novais Pereira 30/07/1989 20 14 34 Aprovado
+927021121 Michele Santos Pereira 25/06/1984 20 14 34 Aprovado Negro
+927022082 Jessica Angelica Da Silva Ramos 26/11/1988 20 14 34 Aprovado
+927025803 Ana Paula Rodrigues Sampaio 22/03/1977 18 16 34 Aprovado
+927012446 Sandra Da Costa Oening 28/05/1975 18 16 34 Aprovado
+927011920 Cristiane Santos De Jesus 26/02/1979 20 14 34 Aprovado Negro
+927012400 Josenildes Andrea De Lima Oliveira Alves 27/07/1980 20 14 34 Aprovado Negro
+927011992 Jacqueline Meire Santos 06/05/1980 20 14 34 Aprovado
+927009009 Leila Silva De Souza 19/06/1983 20 14 34 Aprovado
+927023623 Gabriela Oliveira De Carvalho 03/05/1988 20 14 34 Aprovado Negro
+927004560 Rafaela Gois Dos Santos 16/01/1997 18 16 34 Aprovado Negro
+927016418 Suziane Souza Do Nascimento 23/09/1989 20 14 34 Aprovado
+927024581 Sheyle Dayane Horta Dos Santos 20/04/1982 18 16 34 Aprovado
+927023606 Shirlene Almeida Dos Santos 16/02/1987 20 14 34 Aprovado Negro
+927018780 Thalita Paula Rangel Leite 28/05/1986 18 16 34 Aprovado Negro
+927006550 Leandra Dos Santos Freitas De Castro 19/09/1980 20 13 33 Aprovado Negro
+927001760 Daniele Oliveira Almeida 24/06/1986 20 13 33 Aprovado
+927001979 Lílian Virgínia Cardoso Gonzaga Dos Santos 01/04/1991 20 12 32 Aprovado Negro
+927008773 Jeane Da Silva Freitas 21/08/1974 20 12 32 Aprovado
+927006464 Railana De Cássia Pereira Santos 08/10/1995 20 12 32 Aprovado Negro
+927016785 Sirleide Silva França De Sousa 12/07/1980 20 12 32 Aprovado Negro
+927012178 Jefferson Gondim De Oliveira 20/03/1993 14 18 32 Aprovado PcD Negro
+927020213 Ives Milena Santos Silva 23/08/1980 20 12 32 Aprovado Negro
+927024499 Guilherme Yazaki 10/04/1988 20 12 32 Aprovado
+927013672 Maria Rita Lima Cavalcante 09/09/1970 20 12 32 Aprovado
+927017685 Roseane Ramos Pedreira 15/06/1985 20 12 32 Aprovado Negro
+927010231 Verônica Fonseca Cabús 04/05/1975 20 12 32 Aprovado
+927021049 Paloma Santos Ferreira 09/12/1992 20 12 32 Aprovado
+927017007 Gloria De Araujo Ferreira 23/08/1990 18 14 32 Aprovado
+927019142 Camila Lacerda Pinheiro de Oliveira 14/06/1986 20 12 32 Aprovado Negro
+927017273 Lorames Bispo Dos Santos Cruz 03/10/1986 20 12 32 Aprovado Negro
+927008606 Ricardo Barretto Da Cruz 10/11/1991 14 18 32 Aprovado
+927017702 Elaine Heloísa Pereira Silva 04/09/1995 16 16 32 Aprovado
+927018798 Raquel Dos Santos Xavier 25/03/1992 20 12 32 Aprovado Negro
+927012415 Taísse Maria Sousa Lopes 28/04/1983 20 12 32 Aprovado
+927021243 Cristiniana Santos Silva 12/12/1988 20 12 32 Aprovado Negro
+927024714 Roberta Beatriz Souza Magalhães 27/11/1975 18 14 32 Aprovado Negro
+927011064 Vanessa Ribeiro Dos Reis 19/04/1990 20 12 32 Aprovado
+927012842 Laiane De Jesus Brito Crisóstomo 07/10/1993 20 12 32 Aprovado
+927011534 Daiane Carneiro Dos Santos 10/05/1989 18 14 32 Aprovado
+927020521 Érica Renata Clemente Rodrigues 15/01/1988 18 14 32 Aprovado
+927002043 Elizete Rayane Soares Da Silva 13/04/1995 20 12 32 Aprovado
+927015539 Alice Araujo Santos 28/06/1985 20 12 32 Aprovado
+927019123 Licia Maria Nascimento Peixoto 08/02/1974 20 12 32 Aprovado Negro
+927005142 Andréia Costa Da Encarnação 14/07/1985 20 12 32 Aprovado Negro
+927014392 Ellen Dias E Silva 22/07/1995 18 14 32 Aprovado
+927016452 Débora Gomes Gonçalves 30/10/1989 16 16 32 Aprovado Negro
+927006947 Dilma Santos Do Rosario Marques 12/05/1979 18 14 32 Aprovado Negro
+927006964 Grace Kelly Santos Souza 07/03/1994 20 12 32 Aprovado
+927006061 Maria Aparecida Abolin Marinho 12/01/1982 20 12 32 Aprovado
+927005719 Angelimar Santana Santos 12/03/1969 14 18 32 Aprovado Negro
+927008077 Malu Oliveira Fernandes 10/01/1998 18 14 32 Aprovado
+927017407 Lariza Da Rosa Silva 26/12/1988 20 12 32 Aprovado
+927001783 Ana Paula Santos Da Paz 09/06/1986 20 12 32 Aprovado
+927019404 Liliane Borges Rocha 23/01/1997 16 16 32 Aprovado Negro
+927023197 Beatriz Dos Santos Patrocínio 07/09/1981 20 12 32 Aprovado Negro
+927019158 Augusto César Santos Menezes 16/09/1990 20 12 32 Aprovado Negro
+927018080 Maria Claudia Barbosa Da Silva 04/07/1964 20 11 31 Aprovado Negro
+927013939 Maria De Fátima Reis Dos Santos 23/02/1999 18 13 31 Aprovado Negro
+927016369 Emanuele De Jesus Aleluia 10/05/1993 16 15 31 Aprovado Negro
+927015672 Tonilma Santos Silva 16/07/1985 18 12 30 Aprovado Negro
+927013110 Hilnai Cantuária Borges Da Mota 02/02/1980 18 12 30 Aprovado Negro
+927018346 Ana Paula Gomes Batista 04/04/1992 18 12 30 Aprovado Negro
+927021424 Barbara Da Encarnação Vilas Bôas 02/07/1972 16 14 30 Aprovado Negro
+927016950 Eunice Uzeda dos Santos 03/10/1987 18 12 30 Aprovado Negro
+927015882 Uilma Crisostomo Dos Santos 29/04/1985 18 12 30 Aprovado Negro
+927015848 Regina Costa Farias 21/07/1981 18 12 30 Aprovado Negro
+927019456 Sirlene Queiroz Da Silva 10/01/1987 20 10 30 Aprovado Negro
+927021373 Elizangela De Oliveira Barbosa 09/08/1977 18 12 30 Aprovado
+927015657 Antonia Regina David Macedo 16/10/1985 20 10 30 Aprovado Negro
+927018868 Jone Rildo Nascimento De Almeida 11/07/1989 16 14 30 Aprovado
+927013457 Leila Maria Haynes Dos Santos 17/05/1978 18 12 30 Aprovado Negro
+927015346 Hélida Lamêgo Mendonça Nascimento 17/02/1977 20 10 30 Aprovado
+927020511 Gabriel Santana Reina Machado 09/04/1988 20 10 30 Aprovado Negro
+927019602 Fernanda Rodrigues Dos Santos 18/06/1984 16 14 30 Aprovado Negro
+927013714 Luciane Fernandes Neves 23/05/1989 18 12 30 Aprovado Negro
+927017622 Sandra Santos Silveira 23/04/1980 20 10 30 Aprovado
+927017417 Antonia Barbosa Ferreira Santana 29/10/1985 18 12 30 Aprovado Negro
+927014723 Ana Paula De Jesus Capistrano 05/07/1989 16 14 30 Aprovado Negro
+927016406 Nilvania Dos Santos Lima 23/01/1988 18 12 30 Aprovado
+927014179 Ana Paula Praxedes Neves 02/07/1980 16 14 30 Aprovado Negro
+927019719 Cilene Pereira Cardim 17/08/1975 16 14 30 Aprovado Negro
+927015508 Lilian Silva Dos Santos 30/07/1986 20 10 30 Aprovado
+927023024 Priscila Lima De Carvalho 05/11/1990 20 10 30 Aprovado Negro
+927009455 Natalie Melquiades De Oliveira Araujo 22/12/1992 14 16 30 Aprovado
+927002555 Márcia Cristina Moreira 08/10/1981 20 10 30 Aprovado
+927022921 Jeane Dos Anjos Moreira 23/03/1992 20 10 30 Aprovado Negro
+927008810 Daiana Marcia Lima De Santana 11/03/1983 18 12 30 Aprovado Negro
+927005825 Edivane São Pedro Santos Costa 29/01/1985 18 12 30 Aprovado Negro
+927008535 Suelen Gessica Anunciação Silva 04/06/1986 18 12 30 Aprovado Negro
+927023698 Tatiane Reis Da Silva 14/02/1993 20 10 30 Aprovado Negro
+927002448 Maria Thamires Magalhães Soares 29/10/1997 20 10 30 Aprovado
+927008534 Catia Lima De Santana 16/05/1986 20 10 30 Aprovado Negro
+927008948 Vanessa De Souza Lemos 20/10/1982 18 12 30 Aprovado Negro
+927004819 Shirley Rafaela Oliveira Gomes 30/01/1977 16 14 30 Aprovado Negro
+927008060 Elane Silva Chaves 24/08/1984 20 10 30 Aprovado
+927023592 Zélia De Jesus Assunção 28/03/1979 18 12 30 Aprovado Negro
+927006907 Janaina Alves De Santana 31/12/1987 18 12 30 Aprovado
+927005504 Daniela Chaves Radel Bittencourt 20/01/1976 16 14 30 Aprovado
+27006293 Núbia Maria Brito Cerqueira Machado 18/03/1979 14 16 30 Aprovado Negro
+927023411 Milane Souza Santana 13/04/1993 16 14 30 Aprovado
+927005747 Laís De Almeida Câmara 03/09/1980 14 16 30 Aprovado
+927023695 Analzira Dias Moreira Dos Santos 24/06/1990 18 12 30 Aprovado
+927011069 Milena Lacerda Pinheiro De Oliveira 28/06/1983 20 10 30 Aprovado Negro
+927010256 Adriana Santana Dos Santos 22/08/1983 16 14 30 Aprovado Negro
+927011680 Alan Victor De Azevedo Abreu 28/04/1981 20 10 30 Aprovado
+927011345 Sandra Patricia Da Costa Ribeiro 17/10/1980 16 14 30 Aprovado
+927021995 Patricia Santos De Santana 10/03/1975 16 14 30 Aprovado
+927010574 Tauani Borges Andrade 28/11/1988 16 14 30 Aprovado
+927024949 Mariana Almeida De Campos 18/01/1985 16 14 30 Aprovado
+927001290 Patricia Sueli Teles De Oliveira 05/03/1978 18 12 30 Aprovado
+927024801 Paula Santana Oliveira 27/07/1996 20 10 30 Aprovado
+927010986 Luciana Veloso Almeida 12/06/1980 16 14 30 Aprovado
+927012367 Suely Cury Montalvão 03/09/1967 16 13 29 Aprovado
+927019300 Raquel Dos Santos De Sousa 19/12/1985 16 13 29 Aprovado PcD
+927019635 Anna Caroline Marinho Franca 26/10/1993 20 9 29 Aprovado
+927000271 Aise Dos Santos Silva 01/04/1977 20 9 29 Aprovado Negro
+927017602 Vanessa Barbosa Dos Anjos 26/05/1992 20 9 29 Aprovado Negro
+927003063 Daniel Silva Pinheiro 26/01/1988 20 9 29 Aprovado
+927010355 Carlos Alberto De Souza 08/03/1968 20 9 29 Aprovado
+927014312 Annamelia Luzia Trindade 18/02/1990 16 13 29 Aprovado Negro
+927023512 Adriana Santana Silva 21/09/1982 20 8 28 Aprovado Negro
+927002186 Stella Maris Zanardo Siqueira 20/04/1973 20 8 28 Aprovado
+927000030 Orlando Rodrigues Dos Santos 18/10/1991 18 10 28 Aprovado
+927023495 Lais Assis Sena Cerqueira 06/10/1988 16 12 28 Aprovado
+927005306 Atanaildes Caldas De Santana 05/08/1980 16 12 28 Aprovado Negro
+927003068 Joilson Santiago Dos Anjos 02/02/1989 14 14 28 Aprovado PcD
+927023692 Jasiane De Araujo 02/11/1982 18 10 28 Aprovado
+927016296 Noemi Souza Lima Marques 06/05/1984 18 10 28 Aprovado
+927000175 Simone Lima De Jesus Barral 15/11/1973 20 8 28 Aprovado Negro
+927023722 Marli Ribeiro Santos Alves 24/10/1985 18 10 28 Aprovado
+927005221 Adriano De Jesus Souza 19/12/1986 20 8 28 Aprovado Negro
+927016412 Gil Santos Amorim 06/07/1979 16 12 28 Aprovado Negro
+927024223 Kelly Caroline De Campos Monteiro 12/09/1984 20 8 28 Aprovado
+927000715 Elaine Silva Montargil 27/10/1977 18 10 28 Aprovado
+927025352 Rosana Ferreira Santos 10/06/1979 18 10 28 Aprovado Negro
+927006807 Lucas Da Fonseca Santos 13/10/1981 14 14 28 Aprovado
+927014130 Atanaildes Souza Da Conceição 12/09/1975 20 8 28 Aprovado Negro
+927021622 Lilia Oliveira De Jesus 02/03/1983 20 8 28 Aprovado Negro
+927011310 Aline Pereira Santos 09/03/1991 18 10 28 Aprovado
+927012702 Anamaria Hackspiel De Andrade Brito 16/06/1981 18 10 28 Aprovado
+927010835 Virginia Climaco De Jesus 03/11/1986 16 12 28 Aprovado Negro
+927013224 Daniele De Sá Sacramento Santana 16/09/1982 18 10 28 Aprovado
+927013263 Mayza Brito Silva Dos Santos 09/06/1980 20 8 28 Aprovado
+927010788 Cleide Santos Souza 04/03/1986 18 10 28 Aprovado
+927020826 Juliane Silva Dos Santos 30/03/1987 18 10 28 Aprovado
+927010225 Josemara Costa Reis 31/03/1992 18 10 28 Aprovado Negro
+927022810 Adriana Resende Rodrigues 23/05/1971 14 14 28 Aprovado
+927009217 Maiana Dias Santos De Jesus 05/02/1984 20 8 28 Aprovado
+927013909 Beatriz Souza Lima De Oliveira 23/04/1986 16 12 28 Aprovado Negro
+927019783 Luciana Siqueira Do Nascimento 10/10/1969 18 10 28 Aprovado
+927014743 Roberta Santos De Araújo 18/07/1997 16 12 28 Aprovado Negro
+927007074 Larissa Andreia Carneiro De Araujo 10/02/1996 20 8 28 Aprovado
+927014942 Weslley Feitosa Da Silva 29/07/1993 18 10 28 Aprovado Negro
+927015376 Isabel Marques Barnabé 23/06/1984 20 8 28 Aprovado
+927006479 Renata De Jesus Santos 18/07/1983 16 12 28 Aprovado Negro
+927007550 Bruno De Jesus Santos 08/01/1996 18 10 28 Aprovado
+927015603 Lorena Pereira Do Nascimento 29/04/1993 18 10 28 Aprovado Negro
+927006179 Joseane Silva Cardoso De Oliveira 02/08/1991 20 7 27 Aprovado
+927017086 Tatiana Macedo Araújo 20/09/1981 16 11 27 Aprovado Negro
+927014282 Grayce Lorenna Santos Bastos 04/01/1992 14 13 27 Aprovado
+927008182 Arlete São Leão Miranda De Souza 15/03/1979 18 9 27 Aprovado Negro
+927019275 Juliana Dos Santos Ribeiro 31/07/1984 20 7 27 Aprovado Negro
+927019796 Géssica Gomes Dos Santos Mendes 13/06/1994 20 7 27 Aprovado
+927016692 Caroline Almeida Da Silva 25/03/1995 20 7 27 Aprovado Negro
+927025735 Amauri De Oliveira Jesus 08/09/1987 18 8 26 Aprovado
+927022174 Luiza Cerqueira Dos Santos 12/11/1982 18 8 26 Aprovado Negro
+927021603 Sandra Patrícia Silva Dos Santos 27/06/1981 16 10 26 Aprovado Negro
+927025122 Fábio Prudêncio De Sousa 15/01/1978 18 8 26 Aprovado
+927019995 Luciano Louvores De Lima 06/01/1976 14 12 26 Aprovado Negro
+927018623 Edclea Marques Telis 20/03/1985 14 12 26 Aprovado
+927023282 Marcos De Souza Machado 04/07/1985 14 12 26 Aprovado
+927019145 Maria Clara Araujo Da Macena 19/06/1986 16 10 26 Aprovado Negro
+927023388 Evelin De Souza Ferreira 27/05/1996 18 8 26 Aprovado
+927023891 Eliane Ribeiro Rocha Dias 19/09/1972 16 10 26 Aprovado
+927019989 Jenusia Dos Santos Lima 12/10/1976 16 10 26 Aprovado
+927018393 Denilson Bonfim de Jesus Oliveira 16/01/1987 16 10 26 Aprovado Negro
+927016816 Rívia De Jesus Santos 11/11/1988 16 10 26 Aprovado Negro
+927014842 Orli Ferreira De Albuquerque Junior 17/03/1993 18 8 26 Aprovado
+927008217 Nanci Silva Dos Santos 08/06/1986 18 8 26 Aprovado Negro
+927014422 Fabiane Dos Reis Rebouças Gonzaga 15/04/1977 16 10 26 Aprovado
+927016101 Nilza Santos De Viveiros 16/09/1970 18 8 26 Aprovado
+927011343 Sandra Regina Da Silva Azevedo 18/03/1969 16 10 26 Aprovado
+927016387 Dinara Lacerda Dos Santos 31/08/1985 16 10 26 Aprovado Negro
+927004946 Isabel Simone Ramos Conceicao 10/12/1976 14 12 26 Aprovado
+927016719 Diego De Oliveira Martins 08/04/1987 20 6 26 Aprovado Negro
+927000153 Francinne Martins Florencio 10/01/1992 16 10 26 Aprovado Negro
+927013374 Ketsia Sousa Santos 15/01/1985 14 12 26 Aprovado
+927017005 Claudio Henrique Costa Cerqueira 15/08/1991 14 12 26 Aprovado Negro
+927006092 Lizandra Barreto De Souza 23/02/1981 12 14 26 Aprovado Negro XX
+927013821 Arleia Oliveira Silva De Araujo 01/03/1980 16 10 26 Aprovado
+927017133 Amanda Maria Fraga Costa 01/05/1994 14 12 26 Aprovado Negro
+927017181 Michele Souza Lopes 06/09/1988 16 10 26 Aprovado
+927016681 Karine Cerqueira Dos Santos 04/08/1998 16 10 26 Aprovado Negro
