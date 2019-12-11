@@ -13,6 +13,8 @@ import java.util.stream.Stream;
 
 public class Main {
 	
+	static final private String dir = "/Users/user/meus-projetos/github-repository/analise-concurso-prefeitura-ssa/dados-concurso/"; 
+	
 	public static void main1(String[] args) {
 		String name = "name";
 		String time = "time";
@@ -23,7 +25,7 @@ public class Main {
 	public static void main(String[] args) {
 		List<Candidato> listaCandidatos = new ArrayList<Candidato>();
 		
-		String fileName = "d://concurso//aprovados.txt";
+		String fileName = dir + "convocacao-ava-psico.txt";
 
 		try (Stream<String> stream = Files.lines(Paths.get(fileName))) {
 
@@ -31,11 +33,11 @@ public class Main {
 				String[] line = l.split(" ");
 				String nome = null;
 				try {
-					nome = line[11] + " " + line[12] + " " + line[13] + " " + line[14];					
+					nome = line[1] + " " + line[2] + " " + line[3];					
 				}catch (Exception e) {
-					nome = line[11] + " " + line[12];
+					nome = line[1] + " " + line[2];
 				}
-				String rg = line[10];
+				String rg = line[0];
 				boolean aprovadoNegro = isAprovadoNegro(rg);
 				String objetiva = getPontuacaoObjetiva(rg);
 				String discursiva = getPontuacaoDiscursiva(rg);
@@ -53,18 +55,29 @@ public class Main {
 		
 		List<Candidato> sortedList = listaCandidatos.stream().sorted(Comparator.comparing(Candidato::getNota).reversed()).collect(Collectors.toList());
 		sortedList.stream().forEach(l->{
-//			if(!l.isAprovadoNegro()) {
-//				System.out.println(l.getNome() + " - " + l.getNota());
-//			}
-			String texto = String.format("%1$s - %2$s ( %3s + %4s + %5s)", 
-					l.getNome() , l.getNota(), l.getNotaObjetiva(), l.getNotaDiscursiva(), l.getNotaTitulos() );
-			System.out.println(texto);
+			if(!l.isAprovadoNegro()) {
+				String texto =  
+						l.getNota() + " (" +
+						l.getNotaObjetiva() + " + " +
+						l.getNotaDiscursiva() + " + " +
+						l.getNotaTitulos() + ") - " +
+						l.getNome();
+				System.out.println(texto);
+			}
+			
+//			String texto =  
+//					l.getNota() + " (" +
+//					l.getNotaObjetiva() + " + " +
+//					l.getNotaDiscursiva() + " + " +
+//					l.getNotaTitulos() + ") - " +
+//					l.getNome();
+//			System.out.println(texto);
 		});
 
 	}
 	
 	public static String getPontuacaoObjetiva(String rg) {
-		String fileName = "d://concurso//objetiva.txt";
+		String fileName = dir + "objetiva.txt";
 
 		//read file into stream, try-with-resources
 		try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
@@ -88,7 +101,7 @@ public class Main {
 	}
 	
 	public static String getPontuacaoDiscursiva(String rg) {
-		String fileName = "d://concurso//discursiva.txt";
+		String fileName = dir + "discursiva.txt";
 
 		//read file into stream, try-with-resources
 		try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
@@ -113,8 +126,8 @@ public class Main {
 	
 	public static String getPontuacaoTitulos(String rg) {
 		//D:\concurso\avaliacao de titulos.txt
-		//927024917 Adriana Araújo Santana 0 0 0 0
-		String fileName = "d://concurso//avaliacao de titulos.txt";
+		//927024917 Adriana Araï¿½jo Santana 0 0 0 0
+		String fileName = dir + "avaliacao de titulos.txt";
 
 		//read file into stream, try-with-resources
 		try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
@@ -138,7 +151,7 @@ public class Main {
 	}
 	
 	public static boolean isAprovadoNegro(String rg) {
-		String fileName = "d://concurso//discursiva.txt";
+		String fileName = dir + "discursiva.txt";
 
 		//read file into stream, try-with-resources
 		try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
@@ -147,8 +160,10 @@ public class Main {
 			while ((line = br.readLine()) != null) {
 				String[] l = line.split(" ");
 				String id = l[0];
-				if(id.equalsIgnoreCase(rg)) 
-					return l[l.length-1].equalsIgnoreCase("Negro");
+				if(id.trim().equalsIgnoreCase(rg.trim())) {
+					//System.out.println(line);
+					return l[l.length-1].trim().equalsIgnoreCase("Negro");
+				}
 				
 			}
 
